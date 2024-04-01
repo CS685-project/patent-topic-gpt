@@ -1,0 +1,3021 @@
+{
+    "patent_number": "US-11937550-B2",
+    "abstract": "A drum assembly for turning material. The drum assembly includes a drum having a first end, a second end, a rotational axis extending through the first end and the second end about which the drum rotates. The drum includes a first outer portion, a second outer portion, and a central portion. A plurality of centering paddles are connected to the drum and configured to move material toward a central plane. A plurality of dispersal paddles are connected to the drum and configured to move material away from the drum in a direction generally perpendicular to the rotational axis. A plurality of spreading paddles are connected to the drum and configured to move material away from the central plane.",
+    "cpc_id": [
+        "B02C 21/00",
+        "B02C 21/002",
+        "B02C 2021/023",
+        "A01B 9/00-006",
+        "A01B 33/00-025",
+        "A01B 39/14",
+        "A01D 78/006",
+        "A01D 78/00",
+        "Y02W 30/40",
+        "C05F 17/943",
+        "Y02P 20/145",
+        "B01F 27/70",
+        "B01F 33/5021"
+    ]
+}
+{
+    "patent_number": "US-11937560-B2",
+    "abstract": "An exemplary computer-implemented method for administering one or more treatments to a plant in a greenhouse comprises: receiving data associated with the plant; providing the received data to a trained machine-learning prediction model to obtain: a first set of health predictions of the plant corresponding to a present time; and a second set of health predictions of the plant corresponding to a future time; determining whether the plant is unhealthy or lagging a growth trajectory based on: a first comparison based on the first set of health predictions and observed health of the plant at the present time, and a second comparison based on the second set of health predictions and a future production goal of the plant; if the plant is unhealthy or lagging the growth trajectory, identifying the treatments for the plant; and controlling one or more robots in the greenhouse to administer the treatments.",
+    "cpc_id": [
+        "A01G 7/06",
+        "A01G 9/26",
+        "A01G 27/003",
+        "A01G 9/24",
+        "A01G 9/14",
+        "A01G 9/143",
+        "A01G 27/00",
+        "Y02A 40/25",
+        "Y02A 40/28",
+        "Y02A 40/10",
+        "G05B 19/4155",
+        "G05B 2219/50391"
+    ]
+}
+{
+    "patent_number": "US-11937564-B2",
+    "abstract": "A plant growing apparatus, comprising an enclosure having an interior and exterior, wherein the interior of the enclosure is configured to maintain environmental conditions within the enclosure, one or more light sources, a planting column having an aperture extending therethrough, a rotatable base, a central conduit, wherein said conduit extend through the aperture of the planting column and said planting column is configured to be rotatably movable around said central conduit, a water source, at least one sensor, an irrigation system, and a control system configured to be communicatively coupled to the irrigation system, one or more sensors, light source, and rotatable base.",
+    "cpc_id": [
+        "A01G 31/06",
+        "A01G 9/023",
+        "A01G 9/022",
+        "A01G 9/025",
+        "A01G 31/047",
+        "A01G 31/02",
+        "A01G 9/00",
+        "A01G 9/104",
+        "A01G 9/26",
+        "A01G 9/249",
+        "A01G 9/246",
+        "A01G 9/247",
+        "Y02P 60/216",
+        "Y02P 60/244"
+    ]
+}
+{
+    "patent_number": "US-11937614-B2",
+    "abstract": "A smoke generating assembly for an indoor smoker includes a smoke barrel having a rotating auger positioned therein. The smoke barrel may be supplied with combustible material at a first end of the smoke barrel and the auger may be intermittently rotated to advance the combustible material toward a second end of the smoke barrel and over a smoldering heater to generate a flow of smoke. The smoldering heater may be spaced apart from the smoke barrel by an igniter gap that permits pellet dust from the combustible material to fall into the container below, leaving only solid combustible material to pass through the smoldering heater for combustion.",
+    "cpc_id": [
+        "A23B 4/052",
+        "A23B 4/0523",
+        "Y02A 40/90"
+    ]
+}
+{
+    "patent_number": "US-11937616-B2",
+    "abstract": "An apparatus for manufacturing tablets for hot beverage brewing includes a reservoir feeding infusible loose food products, a grinding system for the loose food products to obtain grounds of a given size, a moistening system moistening the grounds to a given moisture content, a mixing and homogenizing system for mixing and homogenizing the grounds to a homogeneous mixture, a weighing system of the homogeneous mixture to obtain a dose of predetermined weight, a forming system forming the dose into a tablet of predetermined volume, an irradiation system for electromagnetic irradiation of the tablet to overheat the particles to a partial baking and/or sintering for compactness and self-supporting ability without an enclosure, and a control system acting on the grinding, moistening, homogenizing, system, forming, and irradiating systems to control particle size, moisture content, homogeneity, weight, volume and compactness parameters of the tablet and change water permeability of the tablet accordingly.",
+    "cpc_id": [
+        "A23F 5/08",
+        "A23F 5/125",
+        "A23L 5/15",
+        "A23P 10/28",
+        "H05B 6/6447",
+        "H05B 6/686",
+        "H05B 6/702",
+        "H05B 6/80",
+        "Y02B 40/00"
+    ]
+}
+{
+    "patent_number": "US-11937649-B2",
+    "abstract": "A constant-power electronic cigarette protecting against dry-heating and a controlling method thereof are provided. The electronic cigarette comprises a vaporization rod (1) with a heating resistor arranged therein and comprises a battery rod (2) in which a battery (4), a control circuit board (5) and an unlock switch button (6) and a starting switch are arranged. The heating resistor is a variable resistor with a resistance variable depending on a change in temperature and having a positive temperature coefficient. The control circuit board (5) is arranged with a microcontroller chip, a resistance detection unit, a constant-power output control unit, an output feedback unit, wherein the unlock switch button and the starting switch are electrically connected with the microcontroller chip.",
+    "cpc_id": [
+        "Y02E 60/10",
+        "G05D 23/1919",
+        "G05D 23/2401",
+        "A24F 40/57",
+        "A24F 40/10",
+        "A24F 40/46",
+        "A24F 40/53",
+        "A24F 40/60",
+        "H01M 10/425",
+        "H01M 10/46",
+        "H01M 10/48",
+        "H01M 2010/4271",
+        "H02J 7/0063",
+        "H05B 1/0244"
+    ]
+}
+{
+    "patent_number": "US-11938126-B2",
+    "abstract": "In some aspects, isomyosmine or a pharmaceutically acceptable salt thereof may be administered to an individual for the treatment of diseases of the visual system.",
+    "cpc_id": [
+        "A61K 31/4439",
+        "A61K 31/465",
+        "A61K 8/4926",
+        "A61P 25/00",
+        "A61P 3/08",
+        "C07K 14/4747",
+        "C12N 9/0004",
+        "Y02A 50/30"
+    ]
+}
+{
+    "patent_number": "US-11938181-B2",
+    "abstract": "This application relates to methods for assessing patient populations and determining subpopulations vulnerable to viral infection, methods of reducing the risk of infection and/or inducing heterologous immunity to said viral infection.",
+    "cpc_id": [
+        "A61K 39/215",
+        "A61K 39/092",
+        "A61K 39/116",
+        "A61K 39/145",
+        "A61K 39/25",
+        "A61K 39/29",
+        "A61K 39/292",
+        "A61K 39/295",
+        "A61K 2039/55",
+        "A61K 39/102",
+        "A61K 39/12",
+        "A61K 2039/58",
+        "A61P 31/14",
+        "A61P 37/04",
+        "C12N 2710/16734",
+        "C12N 2730/10134",
+        "C12N 2760/18434",
+        "C12N 2760/18734",
+        "C12N 2770/32434",
+        "C12N 2770/32634",
+        "C12N 2770/36234",
+        "Y02A 50/30"
+    ]
+}
+{
+    "patent_number": "US-11938364-B1",
+    "abstract": "A method and apparatus for exercising are disclosed, including providing two apparatuses, each apparatus comprising: a hand grip body comprising a thumb recess and three or more finger recesses formed into the hand grip body; a weighted baton at least partially disposed within the hand grip body; a dual-purpose connector having a proximal end and a distal end, the dual-purpose connector comprising a coupling portion, wherein the proximal end of the dual-purpose connector is coupled to the weighted baton; and a walking pole coupled to the distal end of the dual-purpose connector; inverting an apparatus relative to the other; coupling the apparatuses together by the coupling portion; and grasping and using the coupled apparatuses to perform strengthening exercises, wherein the strengthening exercises is at least one of: an arm curl, a squat, a deadlift, an upward row, a shoulder flexion, and an overhead press. Other embodiments are described and claimed.",
+    "cpc_id": [
+        "A63B 15/00",
+        "A63B 21/072",
+        "A63B 21/00",
+        "A63B 2209/00",
+        "A45B 3/00",
+        "A45B 9/02",
+        "A45B 9/04",
+        "A45B 2200/055",
+        "B29C 70/06",
+        "B29B 17/00",
+        "Y02W 30/06"
+    ]
+}
+{
+    "patent_number": "US-11938446-B2",
+    "abstract": "A method for calculating carbon credits includes obtaining sensor data associated with at least a portion of a deployment for cultivating a target product in a body of water, executing at least one model based at least in part on the sensor data to generate an output predicting at least one characteristic associated with the target product, the deployment, or a portion of the body of water, and inputting the output into a quantification model. The quantification model is executed to generate an output associated with a predicted capacity of the target product to sequester carbon dioxide. An accuracy of the predicted capacity resulting from the output of the quantification model is greater than an accuracy of a predicted or inferred capacity resulting from the output of each model individually. Carbon dioxide offset credits are determined based on the predicted capacity resulting from the output of the quantification model.",
+    "cpc_id": [
+        "B01D 53/62",
+        "B01D 2251/95",
+        "B01D 2257/504",
+        "B01D 53/84",
+        "B01D 53/85",
+        "A01G 33/00",
+        "Y02C 20/40",
+        "G05D 1/00",
+        "G05D 21/00",
+        "G06N 3/00",
+        "G06N 7/00",
+        "C02F 2209/24"
+    ]
+}
+{
+    "patent_number": "US-11938452-B2",
+    "abstract": "A hydro turbulator system includes a volute that has a top duct and a bottom duct that allow fluid to enter and exit the volute. An impeller system including a first impeller and a second impeller is positioned within the volute. The first impeller and the second impeller are axially aligned. A motor is operationally connected to the impeller system so that the first impeller and the second impeller rotate upon operation of the motor. Rotation of the first impeller and the second impeller creates successive zones of high pressure and low pressure to agitate and condition fluid within the volute.",
+    "cpc_id": [
+        "B01F 2101/305",
+        "B01F 23/23341",
+        "B01F 23/2366",
+        "B01F 23/237612",
+        "B01F 27/50",
+        "B01F 27/91",
+        "C02F 1/20",
+        "C02F 1/34",
+        "C02F 1/74",
+        "C02F 2101/322",
+        "C02F 2209/42",
+        "C02F 3/06",
+        "C02F 3/08",
+        "C02F 3/1278",
+        "Y02W 10/10",
+        "Y02W 10/37"
+    ]
+}
+{
+    "patent_number": "US-11938517-B2",
+    "abstract": "A method and apparatus are provided for sorting or retrieving items to/from a plurality of destinations areas. The items are loaded onto one of a plurality of independently controlled delivery vehicles. The delivery vehicles follow a path to/from the destination areas, which are positioned along the path. Once at the appropriate destination area, an item is transferred between the delivery vehicle and the destination area.",
+    "cpc_id": [
+        "B07C 3/087",
+        "B07C 7/005",
+        "B07C 7/02",
+        "B61B 13/02",
+        "B61C 11/04",
+        "B65G 1/04",
+        "B65G 1/065",
+        "B65G 67/01",
+        "Y02T 30/00"
+    ]
+}
+{
+    "patent_number": "US-11938542-B2",
+    "abstract": "According to the invention, a metal workpiece made by additive manufacturing is subjected, following the additive manufacturing process, to a cold treatment in which the workpiece is cooled to a lower target temperature of less than minus 30\u00b0 C. in a cooling phase and is then heated up to an upper target temperature in a heating phase. The cold treatment significantly improves the properties of the workpiece in respect of the mechanical quality thereof.",
+    "cpc_id": [
+        "B22F 3/24",
+        "B22F 10/64",
+        "B22F 2998/10",
+        "B22F 2999/00",
+        "B22F 10/25",
+        "B22F 3/10",
+        "B22F 2003/248",
+        "B22F 10/28",
+        "B33Y 40/20",
+        "C21D 1/18",
+        "C21D 6/04",
+        "C22F 1/002",
+        "Y02P 10/25"
+    ]
+}
+{
+    "patent_number": "US-11938576-B1",
+    "abstract": "A system and method for threading a torque tube through an opening within a U-bolt and module rail device is described. The system and method provide aligned horizontal movement of the torque tube across an assembly frame resulting in the torque tube being threaded through a plurality of U-bolt and module rail devices. After the threading process is complete, the threaded U-bolt and module rail devices are secured in place on the torque tube to allow coupling of solar panels to the module rails.",
+    "cpc_id": [
+        "B23P 19/04",
+        "B23P 19/10",
+        "B23P 19/12",
+        "B23P 21/00",
+        "Y10T 29/49355",
+        "Y10T 29/49838",
+        "H02S 20/00-32",
+        "F24S 25/30",
+        "F24S 2025/6003",
+        "F24S 2025/6005",
+        "F24S 2025/6006",
+        "F24S 25/634-636",
+        "Y02E 10/50",
+        "F16B 5/0685"
+    ]
+}
+{
+    "patent_number": "US-11938580-B2",
+    "abstract": "A workpiece machining device includes a positional deviation correction unit configured to correct a positional deviation of a radius end mill by detecting a positional deviation between a real contour line and an ideal contour line of the radius end mill. The positional deviation correction unit calculates a first correction value configured to make a center of a first arc section formed into an arc shape at a corner portion of the ideal contour line and a center of a second arc section formed into an arc shape at a corner portion of the real contour line to be identical to each other in a plane perpendicular to the rotational axis, and corrects a machining point by the radius end mill using the first correction value.",
+    "cpc_id": [
+        "B23Q 15/22",
+        "B23Q 17/22",
+        "G05B 19/402",
+        "G05B 19/404",
+        "G05B 19/40937",
+        "G05B 19/4099",
+        "G05B 2219/37228",
+        "G05B 2219/50285",
+        "G05B 2219/50293",
+        "G05B 2219/50334",
+        "Y02P 90/02",
+        "B23C 3/16",
+        "B23C 5/10",
+        "B23C 5/00",
+        "B23C 2245/00"
+    ]
+}
+{
+    "patent_number": "US-11938649-B2",
+    "abstract": "In various embodiments, a scanner optimizer system may generate a virtual model of a predicted flitch based on a 3D model of a log/cant and a cut solution for the log/cant. The scanner optimizer system may compare a virtual model of an actual flitch to virtual models of predicted flitches by comparing data points at a fixed elevation relative to one or both faces of the models. Based on the comparisons, the scanner optimizer system may identify the source log from which the actual flitch was cut. In addition, the scanner optimizer system may identify the saw used to cut the actual flitch, and/or other relevant information, and use the additional information to monitor and adjust the saws and other equipment. Embodiments of corresponding apparatuses and methods are also described.",
+    "cpc_id": [
+        "G06F 30/00",
+        "B27B 1/007",
+        "B27B 31/06",
+        "G05B 19/4097",
+        "G05B 19/35134",
+        "G05B 19/41875",
+        "G05B 2219/37558",
+        "G05B 2119/45144",
+        "G05B 2219/45229",
+        "G05B 19/4183",
+        "Y02P 90/80",
+        "B23D 59/008"
+    ]
+}
+{
+    "patent_number": "US-11938671-B2",
+    "abstract": "Techniques for producing at least one PLA strip involve: a) providing a strip-shaped extruded PLA film, b) heating the PLA film provided according to step a) to a temperature in the range from 40 to 70\u00b0 C., c) cutting the PLA film heated according to step b) into the at least one PLA strip, and d) stretching the PLA film cut according to step c).",
+    "cpc_id": [
+        "B29C 55/10",
+        "B29C 55/005",
+        "B29C 2793/0027",
+        "B29C 2793/0036",
+        "B29C 69/001",
+        "B29C 55/02",
+        "B29K 2067/046",
+        "B29L 2007/007",
+        "Y02W 90/10"
+    ]
+}
+{
+    "patent_number": "US-11938789-B2",
+    "abstract": "A transmission system selectively coupled to an engine crankshaft of an internal combustion engine arranged on a vehicle includes a transmission, a motor generator an HVAC compressor and a controller. The transmission has an input shaft, a mainshaft, an output shaft and a countershaft offset from the input shaft. The countershaft is drivably connected to the first input shaft and a mainshaft. The motor generator is selectively couple to the countershaft. The HVAC compressor is selectively driven by the motor generator. The controller operates the transmission system in various modes based on operating conditions.",
+    "cpc_id": [
+        "B60H 1/3222",
+        "B60H 1/004",
+        "B60K 1/02",
+        "B60K 6/24",
+        "B60K 6/26",
+        "B60K 6/28",
+        "B60K 6/36",
+        "B60K 6/383",
+        "B60K 6/387",
+        "B60K 6/48",
+        "B60K 17/02",
+        "B60K 17/22",
+        "B60K 2006/268",
+        "B60K 2006/4816",
+        "B60W 10/06",
+        "B60W 10/08",
+        "B60W 10/11",
+        "B60W 10/30",
+        "B60W 20/10",
+        "B60W 30/18063",
+        "B60W 30/18072",
+        "B60W 2030/18081",
+        "F16H 3/093",
+        "Y02T 10/62"
+    ]
+}
+{
+    "patent_number": "US-11938803-B2",
+    "abstract": "A battery container, a battery pack, and a vehicle are provided. The battery container includes a battery compartment and a first beam. The battery compartment is configured to accommodate a plurality of batteries. The batteries are arranged along a first direction. The first beam extends along the first direction and forms a first side wall of the battery compartment. A first adhesive receiving groove is recessed from an inner wall of the first beam. The first adhesive receiving groove extends along the first direction. The first adhesive receiving groove is configured to be filled with a connection adhesive to connect the first beam to the batteries. The inner wall of the first beam is a side wall of the first beam facing the batteries.",
+    "cpc_id": [
+        "B60K 1/04",
+        "H01M 50/209",
+        "H01M 50/242",
+        "H01M 50/258",
+        "H01M 50/262",
+        "H01M 50/204",
+        "H01M 2220/20",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11938832-B2",
+    "abstract": "A charging station with multiple plugs and a circuit for the charging station are provided. The circuit comprises a power distribution unit, a control unit, one AC/DC unit and multiple DC/DC units. The AC/DC unit is connected with an input end of each DC/DC unit via a bus; an output end of each DC/DC unit is connected to a corresponding charging plug port via the power distribution unit; and the control unit is configured to detect an output voltage of each of the DC/DC units, and control the power distribution unit to operate according to the output voltage of each of the DC/DC units and a power requirement of a charging plug port, to cause at least one of the DC/DC units to be connected to the charging plug port to achieve power distribution of the charging plug port.",
+    "cpc_id": [
+        "B60L 53/16",
+        "B60L 53/11",
+        "B60L 53/30",
+        "B60L 2210/10",
+        "B60L 2210/30",
+        "B60L 53/302",
+        "B60L 53/62",
+        "B60L 53/14",
+        "B60L 53/60",
+        "B60L 53/31",
+        "H02J 7/0024",
+        "H02J 7/02",
+        "H02J 2207/20",
+        "H02J 2310/48",
+        "H02J 7/00047",
+        "H02J 7/0013",
+        "H02M 1/4208",
+        "H02M 1/007",
+        "H02M 1/0077",
+        "H02M 1/008",
+        "H02M 3/155",
+        "H02M 7/06",
+        "Y02T 90/14",
+        "Y02T 10/70",
+        "Y02T 10/7072",
+        "Y02T 10/92",
+        "Y02T 90/12"
+    ]
+}
+{
+    "patent_number": "US-11938834-B2",
+    "abstract": "An information processing method for use in a computer includes: acquiring a charging state and a deterioration state of a battery; determining an upper limit of the charging state of the battery based on the deterioration state; determining a charging plan of the battery based on the upper limit of the charging state determined and the charging state; and outputting the charging plan determined.",
+    "cpc_id": [
+        "B60L 53/305",
+        "B60L 53/62",
+        "B60L 53/665",
+        "B60L 2240/72",
+        "B60L 2240/622",
+        "B60L 2240/80",
+        "B60L 53/66",
+        "B60L 53/67",
+        "B60L 58/13",
+        "B60L 58/16",
+        "B60L 53/65",
+        "H01M 10/48",
+        "H01M 10/425",
+        "H01M 10/44",
+        "H01M 2010/4271",
+        "H01M 2010/4278",
+        "H02J 7/00047",
+        "H02J 7/0069",
+        "H02J 7/00712",
+        "G06Q 50/06",
+        "G06Q 50/30",
+        "G06Q 10/02",
+        "G06Q 50/10",
+        "Y02T 10/72",
+        "Y02T 90/16",
+        "Y02T 10/70",
+        "Y02T 10/7072",
+        "Y02T 90/12",
+        "Y02T 90/167",
+        "Y04S 30/14",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11938837-B2",
+    "abstract": "A vehicle includes: a first battery; a second battery; a solar cell; a power divider configured to transfer power produced by the solar cell to the first battery or transfer power produced by the solar cell to the second battery; and a controller configured to control the power divider to transfer the power produced by the solar cell to at least one of the first battery and the second battery based on a state of charge (SoC) of the first battery and a SoC of the second battery.",
+    "cpc_id": [
+        "B60L 58/12",
+        "B60L 8/003",
+        "B60L 53/22",
+        "B60L 58/18",
+        "B60R 16/033",
+        "H02J 7/0048",
+        "H02J 2310/48",
+        "H02M 3/158",
+        "H02M 3/1582",
+        "H02M 1/007",
+        "H02M 3/3374",
+        "Y02B 70/10"
+    ]
+}
+{
+    "patent_number": "US-11938838-B2",
+    "abstract": "A method for determining a predicted state of health of an electrical energy storage unit in a machine includes providing a data-based or hybrid state of health model, the data-based state of health model is trained, depending on operating variables of the electrical energy storage unit and/or operating features derived from the operating variables, to indicate a state of health and to indicate a model uncertainty of the indicated state of health, ascertaining a state of health characteristic and the associated model uncertainty of the energy storage unit based on the operating variables using the state of health model, and generating at least one random constructed state of health characteristic candidate that corresponds to constructed state of health characteristics within characteristic of confidence intervals, the characteristic of confidence intervals defined by the model uncertainties of the states of health of the ascertained state of health characteristic.",
+    "cpc_id": [
+        "B60L 58/16",
+        "B60L 50/20",
+        "B60L 2200/12",
+        "B60L 2260/44",
+        "B60L 2260/46",
+        "B60L 2260/50",
+        "G01R 31/367",
+        "G01R 31/392",
+        "G06N 7/005",
+        "G06N 20/00",
+        "G07C 5/0808",
+        "H02J 2310/48",
+        "H02J 7/005",
+        "Y02T 10/70"
+    ]
+}
+{
+    "patent_number": "US-11938918-B2",
+    "abstract": "A method of controlling operation of an electric machine includes: determining a voltage-based torque limit based on a voltage constraint of a direct current (DC) bus supplying power to an inverter for powering the electric machine; determining a motor current-based torque limit based on a motor current limit; determining a supply current-based torque limit based on a supply rating, to supply current to the inverter, of the DC bus; determining a regenerative current-based torque limit based on a receive rating, to receive current from the inverter, of the DC bus; determining a final torque limit based on the voltage-based torque limit, the motor current-based torque limit, the supply current-based torque limit, and the regenerative current-based torque limit; determining a limited command torque based on a torque command and the final torque limit; and calculating at least one current command based on, at least, the limited command torque.",
+    "cpc_id": [
+        "B60W 10/08",
+        "B60W 2710/083",
+        "B60L 15/20",
+        "B60L 2240/423",
+        "Y02T 10/64",
+        "Y02T 10/72"
+    ]
+}
+{
+    "patent_number": "US-11938942-B2",
+    "abstract": "A system and method of this disclosure control an on/off state of a power take-off by monitoring the power demand of a fluid power circuit that includes the power take-off and a piece of equipment connected to the power take-off. The power demand may be indicated by a pressure or temperature of a fluid power circuit, by a motion of the equipment or its hand-held controller, or by an engine torque of an engine driving the power take-off. When the equipment transitions between an off state and an on state, the controller automatically engages the power take-off. When the equipment is in the on-state for a predetermined amount of time and the power demand is at or below a predetermined threshold during the predetermined amount of time\u2014thereby indicating idle time or an inactive state of the equipment\u2014the controller automatically disengages the power take-off.",
+    "cpc_id": [
+        "B60W 10/30",
+        "B60W 30/1888",
+        "B60W 2510/30",
+        "B60W 2510/0657",
+        "B60W 2540/00",
+        "B60W 2300/16",
+        "B60W 2422/00",
+        "B60W 2710/021",
+        "B66C 13/20",
+        "B66C 23/40",
+        "B66C 13/40",
+        "B66C 2700/08",
+        "B66C 2700/0357",
+        "B60K 17/28",
+        "B60K 25/06",
+        "B60K 25/02",
+        "B60K 2025/026",
+        "Y02T 10/40",
+        "Y02T 10/84",
+        "B60Y 2200/416",
+        "B60Y 2300/1886"
+    ]
+}
+{
+    "patent_number": "US-11938973-B2",
+    "abstract": "A rail vehicle has a vehicle frame, supported on track undercarriages, and a vehicle superstructure with at least one driver's cabin. A motive drive is provided and has an electric motor supplied by an electric energy store. In this, it is provided that the energy store has a tempering by use of a liquid dielectric, and that the vehicle superstructure includes a compartment, separated from the driver's cabin, in which the electric energy store is arranged within at least one fire protection cabinet with a dielectric tank located there above.",
+    "cpc_id": [
+        "B60L 2200/26",
+        "B60L 2240/36",
+        "B60L 2240/545",
+        "B60L 3/0046",
+        "B60L 50/64",
+        "B60L 50/66",
+        "B60L 58/26",
+        "H01M 10/486",
+        "H01M 10/613",
+        "H01M 10/625",
+        "H01M 10/6556",
+        "H01M 10/6567",
+        "H01M 10/6568",
+        "H01M 2200/00",
+        "H01M 2220/20",
+        "H01M 50/20",
+        "H01M 50/24",
+        "H01M 50/204",
+        "H01M 50/249",
+        "A62C 3/07",
+        "A62C 3/16",
+        "B61C 17/06",
+        "B61C 3/02",
+        "B61D 15/00",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11938986-B2",
+    "abstract": "A control device includes a changing rate calculator, a first threshold calculator, and a separation determiner. The control device determines whether a current collector is separate from a power line, in a power conversion system in which a power converter converts power supplied from the current collector to the primary side of the power converter into alternating-current (AC) power and supplies the AC power to a motor connected to the secondary side of the power converter. The changing rate calculator calculates a changing rate of the voltage at the primary side of the power converter. The first threshold calculator calculates a first threshold having the absolute value positively correlated with an output power from the power converter. The separation determiner compares the changing rate with the first threshold and determines whether the current collector is separate from the power line.",
+    "cpc_id": [
+        "B61L 3/008",
+        "B60L 9/18",
+        "B60L 2200/26",
+        "B60L 2240/423",
+        "Y02T 10/64",
+        "B60T 8/1705",
+        "B60T 8/17"
+    ]
+}
+{
+    "patent_number": "US-11939002-B2",
+    "abstract": "A structural assembly includes a frame and a plurality of panels. The frame includes a wall that at least partially defines an interior region. The plurality of panels is disposed at least partially in the interior region and is coupled to the frame. The plurality of panels includes a first panel and a second panel. The first panel includes a first surface and a second surface opposite the first surface. The first surface defines a first plurality of depressions and the second surface defines a first plurality of protrusions complementary to the first plurality of depressions. The second panel includes a third surface and a fourth surface opposite the third surface. The third surface defines a second plurality of depressions. The fourth surface defines a second plurality of protrusions complementary to the first plurality of depressions. The first panel is coupled to the second panel.",
+    "cpc_id": [
+        "B62D 25/2009",
+        "B62D 27/026",
+        "B62D 27/06",
+        "B62D 27/02",
+        "B62D 25/20",
+        "B60R 13/083",
+        "B60R 16/04",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11939005-B2",
+    "abstract": "A system for deploying D-pillar spoilers on a vehicle is described. The system includes a deployment control system including controller logic having at least one processor and a memory storing instructions for implementing deployment and retraction of D-pillar spoilers on a vehicle. The system also includes at least one vehicle sensor in communication with the deployment control system. The system further includes a motor in communication with the deployment control system. At least one D-pillar spoiler is connected to the motor through a linkage, where the motor is configured to rotate the linkage. The at least one D-pillar spoiler is folded along an underside of a rear upper spoiler of the vehicle in a retracted position and is rotated to a position extending between the rear upper spoiler of the vehicle and a D pillar of the vehicle in a deployed position.",
+    "cpc_id": [
+        "B62D 35/007",
+        "B62D 37/02",
+        "Y02T 10/82"
+    ]
+}
+{
+    "patent_number": "US-11939065-B2",
+    "abstract": "A compressing device for use in an environmental control system includes at least one turbine configured to provide energy by expanding one or more mediums. The one or more mediums provided at an outlet of the at least one turbine form a heat sink within the environmental control system. A compressor is configured to receive energy from the one or more mediums expanded across the at least one turbine. During a first mode of the compressing device, energy derived from a first medium and a second medium of the one or more mediums is used to compress a second medium at the compressor. During a second mode of the compressing device, energy derived from the first medium, the second medium, and a third medium of the one or more mediums is used to compress the second medium at the compressor.",
+    "cpc_id": [
+        "B64D 13/06",
+        "B64D 13/08",
+        "B64D 2013/0618",
+        "B64D 2013/064",
+        "B64D 2013/0648",
+        "B64D 2013/0662",
+        "F25B 9/004",
+        "Y02T 50/50"
+    ]
+}
+{
+    "patent_number": "US-11939080-B2",
+    "abstract": "A mechanically secure docking platform for unmanned VTOL aircraft (\u201cdrone\u201d) or other automated vehicle, acting as an automated battery recharging system for drones or a battery quick change system for drones. The system also is capable of enabling an automated data logistics system for drones, an autonomous guidance system for landing and docking for drones, and/or an autonomous guidance system for undocking and takeoff for drones.",
+    "cpc_id": [
+        "B64F 1/007",
+        "B64C 39/024",
+        "B64U 10/13",
+        "B64U 50/19",
+        "B64U 70/00",
+        "B64U 80/70",
+        "B64U 50/34",
+        "B64U 70/30",
+        "H02J 50/00",
+        "H02J 7/0042",
+        "H02J 7/27",
+        "H02J 7/0034",
+        "Y02T 10/70",
+        "Y02T 90/12"
+    ]
+}
+{
+    "patent_number": "US-11939192-B2",
+    "abstract": "A combination including a crane and a load guiding arrangement arranged for mounting to the crane for controlling the orientation of a load suspended in a crane boom from a bearing wire about the bearing wire is provided. The load guiding arrangement includes: \u2014two winches placed on the crane, \u2014two taglines connected with the winches and two attachment brackets attached in a top zone of the crane boom and being connected to the load for applying a controlled torque to the load about the bearing wire. The load guiding arrangement furthermore includes: \u2014for each winch a winch frame, which is arranged for mounting directly on the crane next to or on the crane counterweight in positions at each side of the crane and \u2014two tagline redirection devices, for example snatch blocks which are connected with the load.",
+    "cpc_id": [
+        "B66C 1/10",
+        "B66C 1/108",
+        "B66C 13/04",
+        "B66C 13/06",
+        "B66C 13/08",
+        "B66C 13/10",
+        "B66C 23/185",
+        "B66C 23/207",
+        "B66C 23/62",
+        "B66C 23/36",
+        "B66C 23/00",
+        "B66C 23/72",
+        "B66C 2700/085",
+        "F03D 13/10",
+        "F03D 13/20",
+        "F03D 13/25",
+        "F03D 13/40",
+        "F05B 2230/60",
+        "F05B 2230/604",
+        "F05B 2230/61",
+        "Y02E 10/72",
+        "Y02E 10/728"
+    ]
+}
+{
+    "patent_number": "US-11939224-B2",
+    "abstract": "Provided are solid-state electrolyte structures. The solid-state electrolyte structures are ion-conducting materials. The solid-state electrolyte structures may be formed by 3-D printing using 3-D printable compositions. 3-D printable compositions may include ion-conducting materials and at least one dispersant, a binder, a plasticizer, or a solvent or any combination of one or more dispersant, binder, plasticizer, or solvent. The solid-state electrolyte structures can be used in electrochemical devices.",
+    "cpc_id": [
+        "C01B 33/22",
+        "C01B 25/45",
+        "B22F 10/25",
+        "B22F 10/34",
+        "B22F 10/38",
+        "B33Y 10/00",
+        "B33Y 70/00",
+        "B33Y 80/00",
+        "C01F 7/028",
+        "C01G 25/006",
+        "H01M 10/0525",
+        "H01M 10/0562",
+        "H01M 2300/0077",
+        "H01M 4/386",
+        "H01M 4/387",
+        "H01M 4/5815",
+        "H01M 4/583",
+        "H01M 2300/0068",
+        "H01M 2300/0094",
+        "H01M 2300/0082",
+        "H01M 4/381",
+        "H01M 4/382",
+        "H01M 4/485",
+        "H01M 4/58",
+        "H01M 4/581",
+        "H01M 4/5825",
+        "H01M 8/1018",
+        "H01M 4/505",
+        "H01M 10/054",
+        "H01M 12/00",
+        "H01M 4/0428",
+        "H01M 4/13",
+        "H01M 4/131",
+        "H01M 4/134",
+        "H01M 8/1069",
+        "H01M 10/052",
+        "H01M 10/056",
+        "H01M 12/06",
+        "H01M 12/08",
+        "H01M 2300/0071",
+        "C01P 2002/30",
+        "C01P 2002/72",
+        "C01P 2004/02",
+        "C01P 2004/03",
+        "C01P 2006/40",
+        "Y02E 60/10",
+        "Y02E 60/50",
+        "Y02P 10/25",
+        "Y02P 70/50",
+        "C04B 35/6263",
+        "C04B 2235/5445",
+        "C04B 35/6264",
+        "C04B 35/632",
+        "C04B 35/63408",
+        "C04B 35/6342",
+        "C04B 35/63424",
+        "C04B 35/6365",
+        "C04B 2235/3206",
+        "C04B 35/447",
+        "C04B 2235/3213",
+        "C04B 35/486",
+        "C04B 35/495",
+        "C04B 2235/3203",
+        "C04B 2235/3208",
+        "C04B 2235/3215",
+        "C04B 2235/3225",
+        "C04B 2235/3227",
+        "C04B 2235/3244",
+        "C04B 2235/3251",
+        "C04B 2235/3284",
+        "C04B 2235/3418",
+        "C04B 2235/6026",
+        "C04B 2235/764",
+        "H01B 1/08"
+    ]
+}
+{
+    "patent_number": "US-11939244-B2",
+    "abstract": "Methods and systems for electrochemical treatment of fertigation water for use and for recycling in agricultural systems such as in controlled environment agricultural systems.",
+    "cpc_id": [
+        "C02F 1/46",
+        "C02F 1/32",
+        "C02F 1/48",
+        "C02F 1/42",
+        "C02F 1/72",
+        "A01C 23/042",
+        "Y02P 60/21",
+        "Y02W 10/37"
+    ]
+}
+{
+    "patent_number": "US-11939273-B2",
+    "abstract": "A limestone calcined clay cement construction composition comprises a) a cementitious binder comprising one or more calcium silicate mineral phases and one or more calcium aluminate mineral phases, and having a Blaine surface area of at least 3800 cm2/g; b) a supplementary cementitious material having a Dv90 of less than 200 \u03bcm comprising (b-1) a calcined clay material and (b-2) a carbonate rock powder in a weight ratio of (b-1) to (b-2) in the range of 0.5 to 2; c) optionally, an extraneous aluminate source; d) a sulfate source; and e) a polyol. The composition contains a controlled amount of available aluminate, calculated as Al(OH)4\u2212, from the calcium aluminate mineral phases plus the optional extraneous aluminate source; and the molar ratio of total available aluminate to sulfate is 0.4 to 2.0. The construction composition further comprises f) an ettringite formation controller. The limestone calcined clay cement construction composition is a reduced carbon footprint composition and exhibits high early strength, high final strength, sufficient open time and high durability.",
+    "cpc_id": [
+        "C04B 7/02",
+        "C04B 22/10",
+        "C04B 22/143",
+        "C04B 24/02",
+        "C04B 24/04",
+        "C04B 2103/408",
+        "C04B 2201/50",
+        "C04B 28/14",
+        "C04B 28/16",
+        "C04B 7/00",
+        "C04B 14/106",
+        "C04B 14/10",
+        "C04B 14/26",
+        "C04B 14/28",
+        "C04B 22/106",
+        "C04B 24/06",
+        "C04B 14/06",
+        "C04B 24/2676",
+        "C04B 24/30",
+        "C04B 14/303",
+        "C04B 20/008",
+        "C04B 22/0093",
+        "C04B 24/003",
+        "C04B 24/38",
+        "C04B 2103/32",
+        "C04B 2103/54",
+        "C04B 22/148",
+        "C04B 24/00",
+        "C04B 24/10",
+        "C04B 7/32",
+        "C04B 7/323",
+        "Y02P 40/18",
+        "Y02W 30/91"
+    ]
+}
+{
+    "patent_number": "US-11939287-B2",
+    "abstract": "The present disclosure provides methods and processes for the recovery of compounds (e.g., pendant groups) from polymeric materials, as well as methods for recycling and reusing such compounds by synthetically converting a recovered compound to building blocks that can be used in, e.g., curable resins for the fabrication of new devices, such as medical devices (e.g., orthodontic appliances).",
+    "cpc_id": [
+        "A61C 7/08",
+        "C07C 67/08",
+        "C07C 67/54",
+        "C08J 11/10",
+        "C08J 11/105",
+        "C08J 11/14",
+        "C08J 2300/10",
+        "C08J 2333/08",
+        "C08J 2333/10",
+        "Y02W 30/62",
+        "G03B 11/00",
+        "G03B 17/12",
+        "G03B 30/00",
+        "H01L 29/1054",
+        "H01L 29/158",
+        "H01L 29/42356",
+        "H01L 29/42392",
+        "H01L 29/66545",
+        "H01L 29/66613",
+        "H01L 29/66795",
+        "H01L 29/7846",
+        "H01L 29/785",
+        "H01L 29/78642",
+        "H04N 23/55",
+        "H04N 23/57"
+    ]
+}
+{
+    "patent_number": "US-11939288-B2",
+    "abstract": "A process for producing alkyl methacrylates, in particular methyl methacrylate (MMA), includes production of methacrolein (MAL) in a first reaction stage; direct oxidative esterification (DOE) of the methacrolein with an alcohol, preferably methanol, to afford an alkyl methacrylate in a second reaction stage; and workup of the alkyl methacrylate crude product from the second reaction stage. An optimized workup of the reactor output from the oxidative esterification of methacrolein involves minimizing the amount of employed water, the amount of employed acid, and/or the amount of aqueous waste streams, through an optimized recycling of the generated process water streams.",
+    "cpc_id": [
+        "C07C 67/39",
+        "C07C 67/54",
+        "C07C 69/54",
+        "C07C 69/58",
+        "G06F 2203/04107",
+        "G06F 2203/04112",
+        "G06F 3/0412",
+        "G06F 3/04164",
+        "G06F 3/04182",
+        "G06F 3/0443",
+        "G06F 3/0446",
+        "Y02P 20/582",
+        "H10K 59/126",
+        "H10K 59/131",
+        "H10K 59/40"
+    ]
+}
+{
+    "patent_number": "US-11939289-B2",
+    "abstract": "The selective dimerization of isoolefins, such as isobutene or isopentane, or mixtures thereof, may be conducted in a system including a series of fixed bed reactors and a catalytic distillation reactor. The system may provide for conveyance of the fixed bed reactor effluents, without componential separation, to a downstream reactor. It has been found that a high selectivity to the dimer may be achieved even though intermediate separation of the desired product from unreacted components between reactors is not performed. Further, embodiments provide for use of a divided wall column for recovery of a high purity dimer product, reducing unit piece count and plot size.",
+    "cpc_id": [
+        "C07C 7/04",
+        "C07C 7/177",
+        "C07C 2/08",
+        "C07C 2/16",
+        "C07C 2/28",
+        "C07C 5/03",
+        "C07C 2527/03",
+        "C07C 11/02",
+        "B01D 3/009",
+        "B01D 3/141",
+        "B01D 3/143",
+        "B01J 8/0419",
+        "B01J 8/0457",
+        "Y02P 20/10"
+    ]
+}
+{
+    "patent_number": "US-11939380-B2",
+    "abstract": "This disclosure relates to combination therapies targeting two or all of PD-1, TIM-3, and LAG-3 using antibodies specific for these targets in patients who are in need of enhanced immunity. Also included in the disclosure are compositions useful in the therapies. The therapies are useful in treating diseases such as cancers.",
+    "cpc_id": [
+        "C07K 16/2818",
+        "C07K 2317/31",
+        "C07K 2317/565",
+        "C07K 2317/92",
+        "C07K 2317/76",
+        "C07K 16/2803",
+        "A61P 35/00",
+        "A61P 35/02",
+        "A61K 45/06",
+        "A61K 2039/507",
+        "A61K 2039/505",
+        "A61K 39/3955",
+        "Y02A 50/30"
+    ]
+}
+{
+    "patent_number": "US-11939404-B2",
+    "abstract": "Cyclized peptides having a crosslinked structure by one or more intramolecular S\u2014S bonds may be prepared by:\n\n    \n    \n        (1-A) as to a completely protected linear peptide having two or more SH groups as functional groups on the peptide, removing protecting groups of all functional groups other than the protected SH groups in the peptide,\n        (1-B) protecting all SH groups of the linear peptide having two or more SH groups as the functional groups on the peptide by forming a temporary S\u2014S bond,\n        and\n        (2) subjecting the peptide obtained by step (1-A) and step (1-B) to a folding step under oxidation and reduction conditions to obtain the cyclized peptide by re-forming an S\u2014S bond in the peptide molecule.",
+    "cpc_id": [
+        "C07K 7/64",
+        "C07K 1/061",
+        "C07K 1/107",
+        "C07K 1/067",
+        "C07K 1/1133",
+        "Y02P 20/55"
+    ]
+}
+{
+    "patent_number": "US-11939528-B2",
+    "abstract": "A method for preparing biochar and hydrogen by utilizing anaerobic fermentation byproducts, the method including: (1) mixing a first straw, seeding sludge and distilled water, and then carrying out anaerobic fermentation to obtain a mixed product after fermentation; (2) performing separation on the mixed product to obtain a second straw and biogas slurry; and (3) carbonizing the second straw to obtain biochar, and collecting gas after a pressurized catalytic reaction on the biogas slurry to obtain hydrogen.",
+    "cpc_id": [
+        "C10B 57/10",
+        "C10B 47/02",
+        "C10B 57/16",
+        "C10B 53/02",
+        "B01J 23/10",
+        "B01J 23/755",
+        "B01J 37/08",
+        "B01J 37/18",
+        "B01J 21/04",
+        "B01J 23/83",
+        "C01B 3/40",
+        "C01B 2203/1628",
+        "C01B 2203/0233",
+        "C01B 2203/1058",
+        "C01B 2203/1082",
+        "C01B 32/05",
+        "C12P 3/00",
+        "C12P 2203/00",
+        "C12P 5/023",
+        "C01P 2006/12",
+        "Y02E 50/10",
+        "Y02E 50/30",
+        "Y02P 20/52"
+    ]
+}
+{
+    "patent_number": "US-11939532-B2",
+    "abstract": "The present application provides a method and a system for recycling a polymer. The method includes introducing polymer into a primary melting extruder, producing a polymer melt that is combined with a fluid oil to at least partially dissolve the polymer melt. A secondary mixing extruder mixes these to form a polymer solution that is introduced into a refinery oil stream, producing a polymer-comprising oil stream, which is fed into a refinery process unit. The system includes a primary melting extruder for forming a polymer melt from polymer. A secondary mixing extruder receives the polymer melt. One or more hydrocarbon inflow conduits for providing a fluid oil to the primary melting extruder and/or the secondary mixing extruder are configured to form a polymer solution from the fluid oil and the polymer melt. There is a feed system outlet for feeding the polymer solution to a refinery oil stream.",
+    "cpc_id": [
+        "C10G 11/18",
+        "C10G 2300/1003",
+        "C10G 2300/1044",
+        "C10G 2300/302",
+        "C10G 2300/408",
+        "C10G 9/005",
+        "C10G 9/007",
+        "C10G 47/00",
+        "C10G 1/002",
+        "B01F 21/02",
+        "B01F 21/30",
+        "B01F 21/401",
+        "B01F 33/821",
+        "B01F 35/189",
+        "B01F 2101/2805",
+        "Y02W 30/62",
+        "C08J 11/12"
+    ]
+}
+{
+    "patent_number": "US-11939534-B2",
+    "abstract": "A composition having a recycle content value is obtained by reacting a recycle content feedstock to make a recycle content alpha olefin or by deducting from a recycle inventory a recycle content value applied to an alpha olefin composition. At least a portion of the recycle content value in the feedstock or in an allotment obtained by an alpha olefin manufacturer has its origin in recycled waste and/or pyrolysis of recycled waste and/or in thermal steam cracking of recycle content pyoil.",
+    "cpc_id": [
+        "C10G 1/002",
+        "C10G 1/02",
+        "C10G 1/10",
+        "C10G 3/40",
+        "C10G 9/00",
+        "C07C 2/16",
+        "C07C 29/141",
+        "C07C 45/50",
+        "Y02P 20/582",
+        "Y02P 30/20",
+        "Y02E 50/30"
+    ]
+}
+{
+    "patent_number": "US-11939535-B2",
+    "abstract": "The present invention relates to a process for the conversion of plant oils, animal fats, waste food oils and carboxylic acids into renewable liquid fuels, such as bio-naphtha, bioQAV and renewable diesel, for use in combination with fossil fuels. The process is composed of two steps: hydrotreatment and hydrocracking. The effluent from the hydrotreatment step contains aromatics, olefins and compounds resulting from the polymerization of esters and acids. This is due to the use of partially reduced catalysts without the injection of a sulfiding agent and allows for the production of bioQAV of suitable quality for use in combination with fossil kerosene. Concurrently, the process generates, in addition to products in the distillation range of naphtha, kerosene and diesel, high molecular weight linear paraffins (up to 40 carbon atoms).",
+    "cpc_id": [
+        "C10G 3/42",
+        "C10G 3/44",
+        "C10G 3/46",
+        "C10G 3/50",
+        "C10G 47/10",
+        "C10G 47/16",
+        "C10G 2300/1003",
+        "C10G 2300/1011",
+        "C10G 2300/1037",
+        "C10G 2400/02",
+        "C10G 2400/04",
+        "B01J 21/04",
+        "B01J 21/066",
+        "B01J 23/28",
+        "B01J 23/30",
+        "B01J 23/85",
+        "B01J 29/06",
+        "B01J 29/166",
+        "B01J 29/7615",
+        "B01J 29/7815",
+        "B01J 29/7884",
+        "B01J 37/0009",
+        "B01J 37/0201",
+        "B01J 2229/20",
+        "B01J 2229/26",
+        "Y02P 30/20"
+    ]
+}
+{
+    "patent_number": "US-11939549-B2",
+    "abstract": "A biomass solid fuel having low self-heating. In the biomass solid fuel, mutual bonding or adhesion between pulverized biomass particles is maintained and the biomass solid fuel has a maximum reaching temperature of less than 200\u00b0 C. in a self-heating property test based on the \u201cUNITED NATIONS Recommendations on the TRANSPORT OF DANGEROUS GOODS: Manual of Test and Criteria: 5th revised Edition: Test method for Self-heating substances\u201d.",
+    "cpc_id": [
+        "C10L 5/08",
+        "C10L 5/28",
+        "C10L 5/363",
+        "C10L 5/44",
+        "C10L 5/442",
+        "C10L 2290/28",
+        "C10L 2290/30",
+        "C10L 2290/32",
+        "Y02E 50/10",
+        "Y02E 50/30"
+    ]
+}
+{
+    "patent_number": "US-11939619-B2",
+    "abstract": "The invention is directed to an engineered yeast including an exogenous nucleic acid encoding a glucoamylase comprising SEQ ID NO:1 and SEQ ID NO:4, or a variant thereof. The engineered yeast are able to provide glucoamylase into a fermentation media and cause degradation of starch material generating glucose for fermentation to a desired bioproduct, such as ethanol. High titers of bioproduct (e.g., 70 g/kg of ethanol) can be achieved, along with low residual glucose levels. Further the yeast exhibit good growth and bioproduct product at temperatures of 32\u00b0 C. or greater.",
+    "cpc_id": [
+        "C12P 7/10",
+        "C12P 2203/00",
+        "C12N 9/248",
+        "C12N 1/185",
+        "C12R 2001/865",
+        "C12Y 302/01003",
+        "Y02E 50/10"
+    ]
+}
+{
+    "patent_number": "US-11939644-B2",
+    "abstract": "A method for regenerating different types of copper-containing aluminum alloys using aluminum alloy scrap from aeronautical industry includes detecting a chemical composition of said aluminum alloy scrap and optionally adding a suitable amount of a metal or alloy additive according to a composition requirement of a target aluminum-copper alloy, thereby obtaining a mixture of aluminum alloy scrap and metal or alloy additive; vacuum smelting the mixture of aluminum alloy scrap and metal or alloy additive in a vacuum furnace, wherein impurities are removed and an aluminum alloy solution is formed; filtering the aluminum alloy solution using a filter to obtain a melt comprising a target aluminum alloy composition; and casting the target aluminum alloy composition from said melt.",
+    "cpc_id": [
+        "C22B 21/068",
+        "C22B 21/0007",
+        "C22B 21/0092",
+        "C22B 21/066",
+        "C22B 9/023",
+        "C22C 1/026",
+        "C22C 21/14",
+        "C22C 21/16",
+        "C22C 21/18",
+        "Y02P 10/20"
+    ]
+}
+{
+    "patent_number": "US-11939695-B2",
+    "abstract": "A quartz glass crucible 1 having a cylindrical side wall portion 10a, a bottom portion 10b, and a corner portion 10c includes a transparent layer 11 as an innermost layer made of quartz glass, a semi-molten layer 13 as an outermost layer made of raw material silica powder solidified in a semi-molten state, and a bubble layer 12 made of quartz glass interposed therebetween. An infrared transmissivity of the corner portion 10c in a state where the semi-molten layer 13 is removed is 25 to 51%, the infrared transmissivity of the corner portion 10c in the state where the semi-molten layer 13 is removed is lower than an infrared transmissivity of the side wall portion 10a, and the infrared transmissivity of the side wall portion 10a in the state where the semi-molten layer 13 is removed is lower than an infrared transmissivity of the bottom portion 10b.",
+    "cpc_id": [
+        "C03B 19/095",
+        "C03B 20/00",
+        "C03C 17/004",
+        "C03C 17/005",
+        "C03C 17/245",
+        "C03C 17/25",
+        "C03C 19/00",
+        "C03C 2204/08",
+        "C03C 2217/213",
+        "C03C 2218/113",
+        "C03C 2218/15",
+        "C03C 3/06",
+        "C03C 4/10",
+        "C30B 15/10",
+        "C30B 29/06",
+        "F27B 14/10",
+        "G01N 21/3563",
+        "G01N 33/386",
+        "Y02P 40/57"
+    ]
+}
+{
+    "patent_number": "US-11939706-B2",
+    "abstract": "A light shielding net, which can improve productivity by facilitating a weaving process, can be wound by a winding device due to a high winding strength, and can express various colors, thereby adjusting a light shielding amount and improving a design aesthetic sense. To this end, a warp yarn is made of a PE monofilament, the weft yarn is made of a PE film, and the two warp yarns are repeatedly woven in a Leno weave form surrounding each weft yarn.",
+    "cpc_id": [
+        "D03D 15/283",
+        "D03D 1/007",
+        "D03D 9/00",
+        "D03D 15/46",
+        "D03D 15/54",
+        "D03D 15/547",
+        "D03D 15/573",
+        "D03D 19/00",
+        "D03D 13/006",
+        "D03D 15/00",
+        "A01G 13/0206",
+        "A01G 9/22",
+        "D10B 2321/021",
+        "D10B 2401/22",
+        "Y02A 40/25"
+    ]
+}
+{
+    "patent_number": "US-11939719-B2",
+    "abstract": "A laundry drying machine includes: a cabinet, a drum rotatably disposed in the cabinet and configured to accommodate a target object, an electric field generator spaced apart from the drum and configured to, based on power being applied to the electric field generator, generate an electric field, and an exhaust duct configured to discharge air inside the drum. The electric field generator includes: (i) an anode electrode spaced apart from the drum, fixed to the cabinet, and configured to apply the electric field to the target object, (ii) a power supply unit configured to supply the power to the anode electrode, and (iii) a matcher configured to match a source impedance of the power and an impedance of a load side. The drum is configured to, based on a reflectivity of the electric field exceeding a predetermined ratio, reduce a rotation speed.",
+    "cpc_id": [
+        "D06F 58/38",
+        "D06F 34/10",
+        "D06F 58/08",
+        "D06F 58/26",
+        "D06F 58/46",
+        "D06F 58/48",
+        "D06F 2103/04",
+        "D06F 2103/64",
+        "D06F 2105/48",
+        "D06F 2103/32",
+        "D06F 2103/44",
+        "D06F 2103/52",
+        "D06F 2105/28",
+        "D06F 2105/52",
+        "D06F 58/02",
+        "D06F 2103/02",
+        "H05B 6/54",
+        "H05B 6/62",
+        "Y02B 40/00"
+    ]
+}
+{
+    "patent_number": "US-11939736-B2",
+    "abstract": "A wind turbine foundation comprising a concrete support slab having a horizontal rebar grid therein, a concrete pedestal integral with the support slab and having vertical post tensioning elements therein and a plurality of concrete ribs on top of and integral with the support slab and integral with the pedestal, the ribs having rebar therein and extend outwardly from the pedestal, the pedestal, slab and ribs are connected to each other to form a monolithic foundation. The foundation design reduces the weight and volume of materials used, reduces cost, and improves heat dissipation conditions during construction by having a small ratio of concrete mass to surface area thus eliminating the risk of thermal cracking due to heat of hydration.",
+    "cpc_id": [
+        "E04G 21/12",
+        "E04H 12/341",
+        "Y02E 10/728",
+        "B28B 1/14",
+        "E02D 27/425",
+        "F03D 13/22"
+    ]
+}
+{
+    "patent_number": "US-11939749-B2",
+    "abstract": "An apparatus, system, and method for the extraction of water molecules from the air includes a combination of electrical mechanisms and materials engineering. With the help of hydrophobic and hydrophilic materials on an array of thermally conductive and electrically insulated materials, the extraction of water from the air is significantly increased. A combination of hydrophobic and hydrophilic materials and an electric field gradient moves the water molecules towards the collection system thus speeding up the water formation process. This also inhibits the re evaporation of the water droplets.",
+    "cpc_id": [
+        "E03B 3/28",
+        "B01D 5/0015",
+        "B01D 5/0042",
+        "B01D 5/0051",
+        "B01D 5/009",
+        "B01D 5/0045",
+        "B01D 5/006",
+        "B01D 5/0072",
+        "Y02A 20/00"
+    ]
+}
+{
+    "patent_number": "US-11939881-B2",
+    "abstract": "A platform of a gas turbine rotor blade according to one embodiment includes a groove portion recessed from an end surface on a trailing edge side toward a leading edge side. A bottom portion of the groove portion overlaps at least a blade-shaped portion when viewed from a radial direction. When a pressure-side end portion of the platform with respect to the bottom portion is defined as a first point, a tangent line that is a tangent line with respect to the bottom portion, extending along a plane intersecting the radial direction at the first point is defined as a first tangent line, when an intersection between a line segment connecting the bottom portion and an end portion on the trailing edge side of a serpentine cooling flow path provided inside the blade-shaped portion when viewed from the radial direction and an end portion on the trailing edge side of the blade-shaped portion is defined as a second point, a tangent line that is a tangent line with respect to the bottom portion, extending along the plane at the second point is defined as a second tangent line, and when an intersection between the first tangent line and the second tangent line when viewed from the radial direction is defined as a third point. As viewed from the radial direction, the third point exists on a side opposite to the end portion on the trailing edge side of the blade-shaped portion across a straight line connecting the first point and the second point.",
+    "cpc_id": [
+        "F01D 5/141",
+        "F01D 5/147",
+        "F01D 5/3007",
+        "F01D 21/045",
+        "F01D 5/143",
+        "F01D 5/18",
+        "F01D 5/14",
+        "F01D 5/187",
+        "F01D 25/12",
+        "F05D 2240/80",
+        "F05D 2260/94",
+        "F05D 2260/941",
+        "F05D 2260/80",
+        "F05D 2260/81",
+        "F05D 2240/81",
+        "F05D 2220/32",
+        "F05D 2240/30",
+        "F05D 2260/20",
+        "F05D 2240/303",
+        "F05D 2240/304",
+        "Y02T 50/60",
+        "F04D 29/324",
+        "F04D 29/38",
+        "F04D 29/384",
+        "F05B 2240/80",
+        "F05B 2240/81"
+    ]
+}
+{
+    "patent_number": "US-11939883-B2",
+    "abstract": "An airfoil includes an airfoil section that has an airfoil wall that defines a leading end, an arced trailing end, and first and second sides that join the leading end and the arced trailing end. The first and second sides span in a longitudinal direction between first and second ends. The airfoil wall circumscribes an internal core cavity that includes an exit region that spans between the first and second ends and that opens through the arced trailing end. The exit region includes pedestals arranged in a plurality of longitudinal pedestal rows. At least one of the longitudinal pedestal rows is straight and at least one of the longitudinal pedestal rows is arced.",
+    "cpc_id": [
+        "F01D 5/188",
+        "F01D 5/187",
+        "F05D 2260/22141",
+        "F05D 2250/71",
+        "F05D 2240/127",
+        "F05D 2240/304",
+        "F05D 2240/122",
+        "Y02T 50/60"
+    ]
+}
+{
+    "patent_number": "US-11939906-B2",
+    "abstract": "A method of operating a forced induction gaseous-fueled engine includes mixing gaseous-fuel and engine intake air to form a mixture at a fuel mixer. The method includes delivering the mixture to an intake manifold by at least partially bypassing a charge air cooler.",
+    "cpc_id": [
+        "F02B 29/0431",
+        "F02B 3/04",
+        "F02B 29/0418",
+        "F02B 29/0475",
+        "F02B 37/007",
+        "F02D 29/06",
+        "F02D 41/0007",
+        "F02D 41/061",
+        "F02D 19/02",
+        "F02D 19/023",
+        "F02D 41/0027",
+        "F02D 41/062",
+        "F02D 41/0087",
+        "F02M 21/02",
+        "F02M 35/10163",
+        "F02M 21/04",
+        "Y02T 10/30",
+        "Y02T 10/12"
+    ]
+}
+{
+    "patent_number": "US-11939915-B2",
+    "abstract": "A raw material fluid treatment plant provided with a raw material reaction apparatus for reacting a raw material fluid to form a reaction gas. The raw material reaction apparatus includes preheaters and a reactor. The preheaters are heat exchangers that perform heat exchange between a second heat transfer medium and the raw material fluid to heat the raw material fluid. The reactor is a heat exchanger that performs heat exchange between a first heat transfer medium differing from the second heat transfer medium and the raw material fluid having been heated by the preheaters to heat and react the raw material fluid.",
+    "cpc_id": [
+        "F02C 6/18",
+        "B01J 19/0013",
+        "B01J 19/0053",
+        "B01J 2219/00159",
+        "B01J 19/32",
+        "F01K 25/103",
+        "F01K 7/18",
+        "F01K 23/10",
+        "F01K 25/10",
+        "Y02E 20/16",
+        "Y02E 60/36",
+        "C01B 3/04"
+    ]
+}
+{
+    "patent_number": "US-11939928-B2",
+    "abstract": "An EGR valve is provided in an EGR passage circulating a part of an exhaust gas of an exhaust pipe in an intake pipe as an EGR gas, the EGR valve adjusting an EGR gas amount flowing in the EGR passage when an engine is in an EGR region, a differential pressure device is provided in the intake pipe, the differential pressure device adjusting a differential pressure of the EGR valve, a control unit is provided to control the EGR valve and the differential pressure device, and the EGR control method includes switching whether to adjust the EGR gas amount using the EGR valve and the differential pressure device or to adjust the EGR gas amount using the EGR valve only on the basis of an exhaust gas pressure of an inlet portion of the EGR passage.",
+    "cpc_id": [
+        "F02D 21/08",
+        "F02D 41/0007",
+        "F02D 41/0065",
+        "F02D 41/1446",
+        "F02D 41/145",
+        "F02D 41/005",
+        "F02D 41/0072",
+        "F02D 2009/024",
+        "F02D 2041/0017",
+        "F02M 26/06",
+        "F02M 26/10",
+        "Y02T 10/12"
+    ]
+}
+{
+    "patent_number": "US-11939947-B2",
+    "abstract": "Provided is a method of shaping an initial edge seal along a longitudinal edge step of an add-on part mounted on the outer surface of a rotor blade, which method includes the steps of providing an initial edge seal along a longitudinal edge step of an add-on part mounted on an outer surface of a rotor blade, and removing a top layer of the initial edge seal. Further provided is wind turbine rotor blade.",
+    "cpc_id": [
+        "F03D 1/0675",
+        "F03D 1/0683",
+        "F05B 2230/10",
+        "F05B 2230/31",
+        "F05B 2230/90",
+        "F05B 2240/303",
+        "F05B 2250/62",
+        "F05B 2240/305",
+        "F05B 2240/3062",
+        "F05B 2230/30",
+        "F05B 2240/57",
+        "Y02E 10/72",
+        "Y02P 70/50"
+    ]
+}
+{
+    "patent_number": "US-11939951-B2",
+    "abstract": "Methods and apparatuses for onshore or offshore erecting an upstanding construction comprising longitudinal construction parts, comprising the steps of providing the longitudinal construction parts, transporting the longitudinal construction parts on a vehicle to an erection site, providing a crane for hoisting the longitudinal construction parts, using the crane for placing the respective longitudinal construction parts on top of each other on a construction base at the erection site, providing the construction base and/or the longitudinal construction parts with a support and guide facility for the crane, arranging that the crane is mountable on the support and guide facility, and mounting the crane on the support and guide facility of at least one of the construction base and the longitudinal construction parts that is placed on the construction base, so as to arrange that the crane is movable up and down along the support and guide facility of the construction.",
+    "cpc_id": [
+        "B66C 23/207",
+        "B66C 23/32",
+        "B66C 23/185",
+        "E02B 17/00",
+        "E02B 2017/0039",
+        "E02B 2017/0091",
+        "E04H 12/342",
+        "F03D 13/10",
+        "F03D 13/20",
+        "F03D 13/25",
+        "F03D 13/40",
+        "F05B 2240/95",
+        "F05B 2230/61",
+        "F05B 2230/6102",
+        "F05B 2240/916",
+        "Y02E 10/72",
+        "Y02E 10/727",
+        "Y02P 70/50"
+    ]
+}
+{
+    "patent_number": "US-11939955-B2",
+    "abstract": "A condition monitoring system includes a monitoring terminal, an acceleration sensor, and a data processor. The data processor calculates a diagnostic parameter from data measured by the acceleration sensor, determines a degree of damage to a bearing or a gear included in a wind turbine generator based on the diagnostic parameter, and controls the monitoring terminal to show information indicating a degree of suppression of electric power generated by the wind turbine generator in accordance with the degree of damage to the bearing or the gear.",
+    "cpc_id": [
+        "F03D 7/0264",
+        "F03D 15/00",
+        "F03D 15/10",
+        "F03D 17/00",
+        "F03D 80/70",
+        "F05B 2240/50",
+        "F05B 2260/4031",
+        "F05B 2260/80",
+        "F05B 2270/327",
+        "F05B 2270/807",
+        "Y02E 10/72"
+    ]
+}
+{
+    "patent_number": "US-11939956-B2",
+    "abstract": "Disclosed is a method for detecting concealed emerging defects in a structure of a wind turbine blade, and a wind turbine blade comprising a first acoustical transducer fastened to a first area of a surface of a structure of the wind turbine blade, and wherein the first acoustical transducer is configured to, while the wind turbine blade being attached to a hub of a wind turbine and the wind turbine is operating: emit a first primary acoustic signal through the surface of the structure and into the structure; and receive a first secondary acoustic signal indicative of an echo of the first primary acoustic signal.",
+    "cpc_id": [
+        "F03D 17/00",
+        "F03D 1/0675",
+        "F03D 1/0658",
+        "G01N 29/12",
+        "G01N 29/4436",
+        "G01N 2291/0289",
+        "G01N 2291/044",
+        "G01N 2291/105",
+        "G01N 2291/2693",
+        "G01N 29/043",
+        "G01N 29/07",
+        "G01N 29/11",
+        "G01N 29/223",
+        "F05B 2260/80",
+        "F05B 2270/80",
+        "Y02E 10/72"
+    ]
+}
+{
+    "patent_number": "US-11939961-B2",
+    "abstract": "A method and system of positive and negative sequence rotor currents control for DFIG-WTs under a single dq-PI control structure includes: adjusting the negative sequence rotor current reference according to the negative sequence stator terminal voltage to obtain a reference adjustment value; converting the reference adjustment value to the forward-rotating dq coordinate system and superimposing it with the positive sequence rotor current reference as the input of a PI-regulator-based current feedback controller to uniformly control the positive and negative sequence rotor current; determining the output voltage reference of the rotor-side converter by the PI-regulator-based current feedback controller, according to which, the switching signal of the rotor-side converter can be determined through the SPWM function, controlling the turn-on and turn-off of the bridge arms of the rotor-side converter to form the output voltage.{right arrow over (\u012a)}r_ref\u2212*",
+    "cpc_id": [
+        "F03D 7/045",
+        "F03D 7/0272",
+        "F03D 7/0284",
+        "H02P 9/007",
+        "H02P 2101/15",
+        "H02P 21/0003",
+        "H02P 21/14",
+        "H02P 21/22",
+        "H02P 27/12",
+        "F05D 2270/54",
+        "F05D 2270/71",
+        "Y02E 10/76",
+        "H02J 3/00",
+        "H02J 3/381",
+        "H02J 2203/20",
+        "H02J 2300/28"
+    ]
+}
+{
+    "patent_number": "US-11940082-B2",
+    "abstract": "A pipe insulation product including a core of insulating material and a laminate surrounding the core and bonded to the core. The core may include an outer surface; an inner surface; and a wall extending between the outer and inner surfaces. The laminate may include a foil or metallized polymeric film sheet, a scrim, a porous media sheet, and a polymeric film sheet bonded together via an adhesive. The laminate may include a closure flap that is configured to adhesively seal opposite ends of the laminate together to form a cylindrical tube with the core enclosed therein. The closure flap may be configured to include a curl that provides a greater closure flap adhesive seal.",
+    "cpc_id": [
+        "C01F 17/13",
+        "C01F 17/212",
+        "C01P 2002/72",
+        "C01P 2002/74",
+        "C01P 2006/12",
+        "C22B 1/02",
+        "C22B 3/42",
+        "C22B 3/44",
+        "C22B 59/00",
+        "Y02P 10/20",
+        "B32B 1/08",
+        "B32B 15/046",
+        "B32B 15/12",
+        "B32B 15/14",
+        "B32B 2250/05",
+        "B32B 2255/02",
+        "B32B 2255/06",
+        "B32B 2255/10",
+        "B32B 2255/12",
+        "B32B 2255/205",
+        "B32B 2305/022",
+        "B32B 2305/026",
+        "B32B 2305/08",
+        "B32B 2305/38",
+        "B32B 2307/304",
+        "B32B 2307/7246",
+        "B32B 2307/736",
+        "B32B 2317/122",
+        "B32B 2597/00",
+        "B32B 27/065",
+        "B32B 27/10",
+        "B32B 27/12",
+        "B32B 29/02",
+        "B32B 3/266",
+        "B32B 37/10",
+        "B32B 37/12",
+        "B32B 37/144",
+        "B32B 38/1866",
+        "B32B 38/1875",
+        "B32B 5/028",
+        "B32B 5/18",
+        "B32B 7/06",
+        "B32B 7/12",
+        "F16L 59/026",
+        "F16L 59/029",
+        "F16L 59/14",
+        "F24F 13/0263",
+        "Y10T 29/49826"
+    ]
+}
+{
+    "patent_number": "US-11940094-B2",
+    "abstract": "A central lubricating station for lubricating one or more machine part(s), having a container base adapted for holding at least two replaceable containers. Each replaceable container holds at least one type of lubricant; and one or more pump(s) is configured for pumping at least one type of lubricant interchangeably from the at least two replaceable containers to the one or more machine part(s); and a motor is configured for driving the one or more pumps.",
+    "cpc_id": [
+        "F16N 7/385",
+        "F16N 19/00",
+        "F16N 29/00",
+        "F16N 29/02",
+        "F16N 37/00",
+        "F16N 2210/025",
+        "F16N 2210/12",
+        "F16N 2210/14",
+        "F16N 2270/60",
+        "F16N 2270/70",
+        "F16N 39/00",
+        "F16N 7/38",
+        "F01M 1/02",
+        "F01M 11/04",
+        "F01M 2011/0483",
+        "F03D 80/70",
+        "F16H 57/0434",
+        "F16H 57/04",
+        "F05B 2240/50",
+        "F05B 2260/98",
+        "Y02E 10/72"
+    ]
+}
+{
+    "patent_number": "US-11940097-B2",
+    "abstract": "The present disclosure provides a storage system comprising a storage tank configured to store fuel at a cryogenic temperature for a predetermined amount of time. The storage tank may have a plurality of layers comprising: a first layer comprising a pressure vessel for containing the fuel at a pressurized state; a second layer comprising insulation for the first layer; a third layer comprising a vapor barrier; and a fourth layer comprising a shell configured to maintain a rigidity of the storage tank.",
+    "cpc_id": [
+        "F17C 13/001",
+        "F17C 1/02",
+        "F17C 1/12",
+        "F17C 13/002",
+        "F17C 2201/0109",
+        "F17C 2201/035",
+        "F17C 2203/012",
+        "F17C 2203/0391",
+        "F17C 2203/0621",
+        "F17C 2221/012",
+        "F17C 2225/0161",
+        "F17C 2260/033",
+        "F17C 2270/0168",
+        "F17C 2203/0629",
+        "F17C 2223/0161",
+        "F17C 2203/016",
+        "F17C 2203/014",
+        "F17C 2205/0149",
+        "F17C 3/08",
+        "Y02E 60/32"
+    ]
+}
+{
+    "patent_number": "US-11940173-B2",
+    "abstract": "The present application provides a heat exchange device. The heat exchange device includes: a case, an interior of which is formed into an air-supply inflow space, an exhaust inflow space, an air-supply outflow space and an exhaust outflow space separated from each other, wherein a first extension wall is provided between the air-supply inflow space and the exhaust outflow space; and a heat exchange unit disposed in the case, and the air-supply inflow space and the air-supply outflow space communicate with each other by the heat exchange unit to form an air-supply air path, and the exhaust inflow space and the exhaust outflow space communicate with each other by the heat exchange unit to form an exhaust air path, wherein the air-supply air path and the exhaust air path exchange heat when passing through the heat exchange unit; the first extension wall is provided with a circulation air port communicating the air-supply inflow space and the exhaust outflow space, wherein the circulation air port may be selectively opened and closed. The heat exchange device may not only provide indoor air circulation but also ensure heat exchange efficiency.",
+    "cpc_id": [
+        "F24F 13/20",
+        "F24F 12/006",
+        "F24F 7/08",
+        "F24F 11/89",
+        "F24F 13/02",
+        "Y02B 30/56"
+    ]
+}
+{
+    "patent_number": "US-11940178-B2",
+    "abstract": "A gas-fired atmospheric pressure steam humidifier having high efficiency and ultra-low NOx(3) emissions is disclosed. In some examples, the gas-fired humidifier can have an efficiency of greater than 90 percent and a NOx(3) output of less than 20 parts per million (ppm). In one aspect, the humidifier includes a secondary heat exchanger having a first heat exchange section for pre-heating combustion air and a separate second heat exchange section for pre-heating make-up water, wherein the first and second heat exchange sections are in heat transfer communication with exhaust gases generated by the gas-fired burner and combustion blower assembly. In some examples, the first heat exchange section includes orifices for enabling flue gas recirculation.",
+    "cpc_id": [
+        "F24F 6/18",
+        "F24F 2006/008",
+        "F24F 2221/34",
+        "F22B 9/00",
+        "F22B 31/08",
+        "F22B 37/06",
+        "F23C 2900/09002",
+        "F23D 14/22",
+        "Y02E 20/34"
+    ]
+}
+{
+    "patent_number": "US-11940182-B2",
+    "abstract": "A solar-powered generator captures solar energy and generates steam with the energy. The generator includes a container formed with an inner spherical wall defining an inner chamber and having an inner reflective surface containing photovoltaic cells and an outer spherical wall defining an outer chamber located between the inner and outer spherical walls. The container is formed to allow for sunlight to enter the inner chamber. An inlet port is configured to allow water to enter the outer chamber and an outlet port is configured to allow steam to exit the outer chamber, whereby sunlight entering the inner chamber through the passage bounces off of the inner reflective surface allowing thermal energy to heat the water in the outer chamber to create steam to generate electricity through an external steam turbine. While simultaneously using radiant energy to be absorbed by photovoltaic cells to generate additional electricity.",
+    "cpc_id": [
+        "F22B 1/006",
+        "F24S 20/20",
+        "F24S 23/30",
+        "F24S 23/00",
+        "F24S 23/72",
+        "F24S 23/74",
+        "H02S 10/00",
+        "H02S 40/22",
+        "Y02E 10/44",
+        "Y02E 10/40",
+        "Y02E 10/46",
+        "B01D 1/0035",
+        "C02F 1/14",
+        "Y02B 10/20"
+    ]
+}
+{
+    "patent_number": "US-11940184-B2",
+    "abstract": "The present disclosure relates to an absorption cooling machine including an absorber, a first regenerator, a second regenerator, a condenser, an expansion device, and an evaporator, and relates to a cooling machine that prevents the refrigerant from flowing backward to the first regenerator under a low pressure condition by installing a gas-liquid separator that separates the refrigerant discharged from the first and second regenerators and flows into the condenser into a gas state and a liquid state, in order to heat the absorption solution supplied from the absorber to separate into a refrigerant and an absorbent, and to smoothly discharge the refrigerant from the first regenerator and the second regenerator for discharging the separated refrigerant to the condenser.",
+    "cpc_id": [
+        "F25B 15/02",
+        "F25B 15/008",
+        "F25B 15/006",
+        "F25B 15/04",
+        "F25B 15/06",
+        "F25B 49/043",
+        "F25B 41/20",
+        "F25B 43/00",
+        "F25B 49/04",
+        "F25B 41/40",
+        "F25B 2315/005",
+        "F25B 2600/05",
+        "F25B 2600/2501",
+        "F25B 41/42",
+        "F25B 2400/23",
+        "Y02A 30/27",
+        "Y02B 30/62"
+    ]
+}
+{
+    "patent_number": "US-11940185-B2",
+    "abstract": "A magnetic refrigeration system includes a plurality of heat transporters, a magnetic field application unit, and a drive mechanism. Each heat transporter is switched between a heat generating and heat absorbing states in response to magnetic field application and cancellation of the magnetic field application. The heat transporters are arranged between low and high temperature side heat exchangers. The magnetic field application unit applies a magnetic field to the heat transporters so that a heat transporter to which a magnetic field is applied and a heat transporter to which a magnetic field is not applied are alternately arranged. The drive mechanism periodically moves at least the plurality of heat transporters so that a heat transporter to which the magnetic field is applied is periodically switched and so that a state of thermal contact is periodically switched. An end portion of at least one heat transporter is a heat transfer accelerator.",
+    "cpc_id": [
+        "F25B 21/00",
+        "F25B 2321/0022",
+        "F25B 2321/0021",
+        "Y02B 30/00"
+    ]
+}
+{
+    "patent_number": "US-11940350-B2",
+    "abstract": "Method for diagnosing at least one exhaust gas sensor (22;24;26) of an internal combustion engine (10) disposed in an exhaust duct (21), where ambient air (12) is actively introduced into the exhaust duct (21) by means of a device (27), when an operating state is present in which the internal combustion engine (10) does not produce an exhaust gas mass flow, and the diagnosis of the at least one exhaust gas sensor (22;24;26) disposed in the exhaust duct (21) is subsequently carried out.",
+    "cpc_id": [
+        "G01M 15/02",
+        "F02D 41/1461",
+        "F02D 41/1463",
+        "F02D 41/222",
+        "F02D 41/1441",
+        "F02D 41/1454",
+        "Y02T 10/40"
+    ]
+}
+{
+    "patent_number": "US-11940354-B2",
+    "abstract": "Systems and methods of detecting a fuel leak are provided. A method of detecting a fuel leak within a turbomachine combustor includes a step of monitoring, by a controller, a sensor output from a particulate matter sensor positioned on a component within the combustor. The sensor output includes one of a fault state sensor output or a non-fault state sensor output. The method further includes receiving, with the controller, the fault state sensor output from the particulate matter sensor when a fuel leak is present within the combustor.",
+    "cpc_id": [
+        "G01M 3/40",
+        "F01D 11/00",
+        "F01D 21/10",
+        "F02C 9/46",
+        "F02C 7/222",
+        "G01N 27/04",
+        "F23R 2900/00019",
+        "F23R 3/283",
+        "Y02T 50/60",
+        "F05D 2240/35",
+        "F05D 2260/607",
+        "F05D 2260/80",
+        "F05D 2260/81"
+    ]
+}
+{
+    "patent_number": "US-11940355-B2",
+    "abstract": "A wind turbine rotor blade load emulator arrangement includes a support unit constructed to support a rotor blade during a fatigue test procedure; an exciter configured to deflect the rotor blade during a fatigue test procedure; and a stiffness augmentation assembly for mounting to the rotor blade over a mounting length, which stiffness augmentation assembly is realized to increase the stiffness of the rotor blade in the mounting length. A method of carrying out a fatigue test procedure on a wind turbine rotor blade uses such a load emulator arrangement.",
+    "cpc_id": [
+        "G01M 5/0058",
+        "Y02E 10/72"
+    ]
+}
+{
+    "patent_number": "US-11940403-B2",
+    "abstract": "A device for the detection of a food allergen includes a sensor having a printed circuit board and a chip comprising a molecularly imprinted polymer (MIP) and a non-imprinted polymer (NIP); a reservoir comprising a liquid; and a chamber for mixing the liquid with a food.",
+    "cpc_id": [
+        "G01N 27/126",
+        "G01N 27/045",
+        "G01N 33/02",
+        "G01N 33/68",
+        "G01N 2600/00",
+        "C08L 29/04",
+        "C08K 3/041",
+        "C08K 2201/001",
+        "Y02P 20/582"
+    ]
+}
+{
+    "patent_number": "US-11940405-B2",
+    "abstract": "A sensor element (10) having a laminate structure, and extending in an axial direction AX, the sensor element including a first and second ceramic layers (118B, 115) disposed apart from each other in a laminating direction; a third ceramic layer (118) intervening between the first and second ceramic layers in the laminating direction and having a hollow space (10G) formed therein; and an internal space which is the hollow space surrounded by the first ceramic layer, the second ceramic layer, and the third ceramic layer, wherein, at a periphery (10f) of the internal space, a fourth ceramic layer (181) containing as a main component a ceramic material different from that contained as a main component in the first and third ceramic layers intervenes between the first ceramic layer and the third ceramic layer which are exposed to the internal space. Also disclosed is a method for manufacturing the gas sensor element.",
+    "cpc_id": [
+        "G01N 27/4071",
+        "G01N 27/4074",
+        "G01N 33/0037",
+        "G01N 27/417",
+        "G01N 27/4077",
+        "G01N 27/409",
+        "G01N 27/41",
+        "B32B 18/00",
+        "B32B 2315/02",
+        "B32B 2457/00",
+        "C04B 37/003",
+        "C04B 2237/064",
+        "C04B 2237/068",
+        "C04B 2237/343",
+        "C04B 2237/561",
+        "C04B 2237/595",
+        "C04B 2235/6028",
+        "C04B 2237/348",
+        "C04B 2237/66",
+        "Y02A 50/20"
+    ]
+}
+{
+    "patent_number": "US-11940430-B2",
+    "abstract": "The suppressor system is provided with: a suppressor which has an eluent flow path and a suppression solution flow path, the eluent flow path and the suppression solution flow path being separated from each other by an ion exchange membrane; a circulation flow path which connects the inlet and the outlet of the suppression solution flow path of the suppressor, and circulates a suppression solution; an ion exchange resin column which is provided on the circulation flow path, and is equipped with a resin accommodation unit through which the suppression solution flowing out of the suppressor is passed, an acidic or alkaline ion exchange resin being accommodated in the resin accommodation unit; and a life detector which determines the life of the ion exchange resin in the ion exchange resin column.",
+    "cpc_id": [
+        "B01D 15/363",
+        "B01D 69/02",
+        "B01D 2325/42",
+        "B01D 15/36",
+        "B01D 15/10",
+        "B01D 61/243",
+        "B01D 61/44",
+        "B01D 35/143",
+        "B01D 35/1435",
+        "G01N 30/96",
+        "G01N 30/02",
+        "G01N 2030/965",
+        "G01N 30/74",
+        "G01N 2030/0035",
+        "G01N 2030/746",
+        "G01N 21/21",
+        "G01N 30/26",
+        "G01N 30/6095",
+        "B01J 49/85",
+        "B01J 39/07",
+        "B01J 41/07",
+        "B01J 41/20",
+        "B01J 45/00",
+        "B01J 47/04",
+        "B01J 49/08",
+        "B01J 49/30",
+        "B01J 49/53",
+        "B01J 49/57",
+        "B01J 49/60",
+        "B01J 49/80",
+        "B01J 49/90",
+        "B01J 47/016",
+        "C02F 1/42",
+        "C02F 1/006",
+        "C02F 1/008",
+        "C02F 2209/05",
+        "C02F 2209/055",
+        "C02F 2301/043",
+        "C02F 2303/16",
+        "C02F 2209/445",
+        "C22B 3/24",
+        "C22B 3/42",
+        "G05D 21/02",
+        "Y02P 10/20",
+        "Y02P 10/234"
+    ]
+}
+{
+    "patent_number": "US-11940433-B1",
+    "abstract": "A method includes receiving data characterizing a time-dependent first sensor data detected by a first sensor, a time-dependent second sensor data detected by a second sensor, a time-dependent third sensor data detected by a third sensor, a first set of threshold values associated with the first sensor, a second set of threshold values associated with the second sensor, and a third set of threshold values associated with the third sensor and a time window. The first, second, and third sensors are located in a first space of a building. The method further includes calculating a first performance index, a second performance index, and a third performance index. The method also includes classifying the first performance index, the second performance index, and the third performance index into one of a plurality of performance indicators. The method further includes assigning a performance rating score for a space based on the classification.",
+    "cpc_id": [
+        "G05B 23/0221",
+        "G05B 15/02",
+        "G05B 17/02",
+        "G05B 2219/2614",
+        "G05B 2219/2642",
+        "G05B 19/042",
+        "G05B 19/0428",
+        "G05B 13/04",
+        "G06Q 50/06",
+        "G01N 33/0075",
+        "F24F 11/30",
+        "F24F 11/46",
+        "F24F 11/63",
+        "F24F 11/56",
+        "F24F 11/00",
+        "F24F 11/65",
+        "F24F 2110/10",
+        "F24F 2110/20",
+        "F24F 2110/50",
+        "F24F 7/06",
+        "Y02B 30/70",
+        "Y02B 20/40",
+        "Y02P 90/02",
+        "G01D 21/00"
+    ]
+}
+{
+    "patent_number": "US-11940500-B1",
+    "abstract": "In one aspect, non-invasive methods are described in which combinations of certain battery parameter values are used to identify whether metal plating (e.g., lithium plating) has occurred during charging of a battery. In response to the detection of metal plating and/or conditions associated with metal plating, one or more characteristics of a charge process may be adjusted or adapted to maintain battery parameter values within a specified range. In some cases, after detection of metal plating, a battery charge process may be adjusted or adapted to remove metal plating from a battery's anode by a discharge pulse.",
+    "cpc_id": [
+        "G01R 31/382",
+        "G01R 31/388",
+        "G01R 31/392",
+        "B60L 58/12",
+        "H01M 10/44",
+        "H01M 10/48",
+        "H02J 7/00",
+        "H02J 7/0013",
+        "H02J 7/0014",
+        "H02J 7/0016",
+        "H02J 7/0018",
+        "H02J 7/0019",
+        "H02J 7/0024",
+        "H02J 7/0025",
+        "H02J 7/0047",
+        "H02J 7/0048",
+        "H02J 7/0049",
+        "H02J 7/005",
+        "H02J 7/00711",
+        "H02J 7/007182",
+        "H02J 7/007184"
+    ]
+}
+{
+    "patent_number": "US-11940769-B2",
+    "abstract": "A method for editing a machining program includes obtaining tool information specifying a tool mountable on a machine tool. A program editing window and at least one assistance window are displayed. The program editing window shows a program code of the machining program to control the machine tool. Each of the assistance window selectively shows the tool information and a control method. The tool is to be controlled according to the control method. In the program code, an insertion position at which a new code is to be inserted into the program code is specified. Selected information is selected from the tool information when the tool information is shown in the at least one assistance window. A command corresponding to the selected information is inserted into the program code at the insertion position.",
+    "cpc_id": [
+        "G05B 19/0426",
+        "G05B 2219/13046",
+        "G05B 2219/36088",
+        "G05B 19/409",
+        "G05B 19/4093",
+        "Y02P 90/02"
+    ]
+}
+{
+    "patent_number": "US-11940858-B2",
+    "abstract": "A data fabric routes requests between the plurality of requestors and the plurality of responders. The data fabric includes a crossbar router, a coherent slave controller coupled to the crossbar router, and a probe filter coupled to the coherent slave controller and tracking the state of cached lines of memory. Power state control circuitry operates, responsive to detecting any of a plurality of designated conditions, to cause the probe filter to enter a retention low power state in which a clock signal to the probe filter is gated while power is maintained to the probe filter. Entering the retention low power state is performed when all in-process probe filter lookups are complete.",
+    "cpc_id": [
+        "G06F 1/3209",
+        "G06F 1/3215",
+        "G06F 1/3225",
+        "G06F 1/3228",
+        "G06F 1/3237",
+        "G06F 1/3275",
+        "G06F 1/3287",
+        "G06F 1/3296",
+        "G06F 12/0833",
+        "G06F 13/26",
+        "G06F 2212/1024",
+        "G06F 2212/1028",
+        "G06F 2212/502",
+        "G06F 1/328",
+        "Y02D 10/00"
+    ]
+}
+{
+    "patent_number": "US-11940859-B2",
+    "abstract": "A method of adjusting core and un-core operating frequencies of two or more processors of a server includes determining core and un-core operating frequency variations versus power consumption limit variations of the two or more processors. The method also includes determining two or more first power consumption levels associated with the two or more processors. Each one of the two or more processors run at essentially a same target core operating frequency and at a same target un-core operating frequency at the respective first power consumption level of the processor. The method further includes adjusting the core and un-core operating frequencies of the two or more processors by setting a power consumption limit of each one of the two or more processors at the respective first power consumption level of the processor.",
+    "cpc_id": [
+        "G06F 1/3206",
+        "G06F 1/324",
+        "G06F 1/3243",
+        "G06F 1/3203",
+        "G06F 1/3296",
+        "Y02D 10/00"
+    ]
+}
+{
+    "patent_number": "US-11940864-B2",
+    "abstract": "A multiphase power supply including a controller and phases can respond to a drop in load level by reducing all but one active phase to reduce power consumption. If the load level drops further, further reduction of the power consumption could be achieved by reducing, changing, or disabling the functions of some circuits within the active phase during these conditions. Estimating these conditions, however, may be difficult for a controller when the communication between the controller and the phase is limited. The disclosure describes an active phase that estimates a state of the load based on a sensed output current and a pulse width modulation control signal. The active phase may change its operating mode to match the estimated state of the load so that lighter load conditions consume less power. Furthermore, the idle phase(s) may nearly turn off all function except PWM detection to save power. Because this mode change is local to the phase, no additional communication with the controller is required.",
+    "cpc_id": [
+        "G06F 1/3296",
+        "G06F 1/28",
+        "G06F 1/26",
+        "G06F 1/32",
+        "H02M 1/0058",
+        "H02M 1/083",
+        "H02M 3/158",
+        "H02M 1/0009",
+        "H02M 1/0032",
+        "H02M 1/0048",
+        "H02M 3/1584",
+        "Y02B 70/10",
+        "Y02D 10/00"
+    ]
+}
+{
+    "patent_number": "US-11940924-B2",
+    "abstract": "A memory system according to an embodiment includes a memory system includes a nonvolatile memory and a memory controller. The nonvolatile memory includes blocks. The memory controller includes first and second tables, and first and second storage areas. The first table is managed in units of map segments. The second table includes first entries associated with a plurality of map segments included in the first table. The first storage area is configured to store a change history of the first table. The second storage area is configured to store a physical address of a block that is a storage destination of a copy of a changed map segment and a change history of the second table.",
+    "cpc_id": [
+        "G06F 12/0891",
+        "G06F 12/0246",
+        "Y02D 10/00"
+    ]
+}
+{
+    "patent_number": "US-11940944-B2",
+    "abstract": "A computer platform is disclosed. The computer platform comprises a non-volatile memory to store fuse override data; and a system on chip (SOC), coupled to the non-volatile memory, including a fuse memory to store fuse data and security micro-controller to receive the fuse override data and perform a fuse override to overwrite the fuse data stored in the fuse memory with the fuse override data.",
+    "cpc_id": [
+        "G06F 15/7853",
+        "G06F 2212/202",
+        "G06F 15/7807",
+        "G06F 21/575",
+        "G06F 30/398",
+        "G11C 17/16",
+        "G11C 29/789",
+        "G11C 29/4401",
+        "G11C 2029/4402",
+        "G11C 17/18",
+        "G11C 29/785",
+        "Y02D 10/00"
+    ]
+}
+{
+    "patent_number": "US-11941329-B2",
+    "abstract": "A method for analyzing fuselage profile based on measurement data of an aircraft, including: acquiring point-cloud data of an aircraft via a laser scanner; selecting point-cloud data of a fuselage component from the point-cloud data of the aircraft; based on a weighted locally optimal projection (WLOP) operator and Ll median curve-skeleton concept of point cloud, extracting a medial axis from the point-cloud data of the fuselage component; uniformly sampling the medial axis into a plurality of skeleton points; extracting a discrete point set of a cross-section contour of the fuselage component; performing circle fitting on the discrete point set to obtain a fitted circle and parameters thereof; calculating a deformation displacement measurement indicator \u03bc of the cross-section of the fuselage component to evaluate cross-section contour of the fuselage.",
+    "cpc_id": [
+        "G06F 30/00",
+        "G06F 30/15",
+        "G06F 30/17",
+        "B64C 1/00",
+        "B64C 1/068",
+        "B64F 5/60",
+        "Y02T 90/00",
+        "G06Q 10/06393"
+    ]
+}
+{
+    "patent_number": "US-11941416-B2",
+    "abstract": "One or more processors of a mobile computing device may receive, from a view provider, graphical user interface (GUI) view data that specifies, for each respective GUI view of a set of GUI views, a respective platform-neutral layout description and a respective one or more condition for the respective GUI view to be a relevant GUI view. The one or more processors may determine a GUI view as the relevant GUI view out of the set of GUI views based at least in part on one or more conditions for the GUI view specified by the GUI view data. The one or more processors may, in response to determining the GUI view as the relevant GUI view, output, based at least in part on a platform-neutral layout description for the GUI view specified by the GUI view data, the GUI view for display at a display device.",
+    "cpc_id": [
+        "G06F 9/451",
+        "G06F 3/04842",
+        "G06F 1/3206",
+        "G06F 1/3293",
+        "Y02D 10/00"
+    ]
+}
+{
+    "patent_number": "US-11941448-B2",
+    "abstract": "A computing device includes a processor and a machine-readable storage storing instructions. The instructions are executable by the processor to: determine a completed amount of data transferred for each of a plurality of data transfer jobs, each of the plurality of data transfer jobs to transfer data to a storage system; determine an estimated probability of failure for each of the plurality of data transfer jobs; and allocate computing resources of the storage system to the plurality of data transfer jobs based on the completed amount of data transferred and the estimated probability of failure of each of the plurality of data transfer jobs.",
+    "cpc_id": [
+        "G06F 9/5027",
+        "G06F 3/0604",
+        "G06F 3/0631",
+        "G06F 3/0647",
+        "G06F 3/0676",
+        "G06F 3/0677",
+        "G06F 3/0679",
+        "G06F 3/0682",
+        "G06F 3/0613",
+        "G06F 3/0659",
+        "G06F 3/067",
+        "G06F 9/5011",
+        "Y02D 10/00"
+    ]
+}
+{
+    "patent_number": "US-11941562-B2",
+    "abstract": "Based on operation trajectory data an operation analysis device identifies all open points indicating positions at which the crusher is opened during the operation period and all close points indicating positions at which a crusher is closed during an operation period, calculates, as a shortest distance, a distance between each open point of the all open points and a close point nearest to the each open point, and identifies, as a sorting destination open point, an open point at which the shortest distance exceeds a first threshold value, identifies data until the crusher grasping the dismantling part moves to the sorting destination and returns to the dismantling target again from among the operation trajectory data as movement data of the crusher having moved in the dismantling operation, and identifies data in which the movement data has been removed from the operation trajectory data as grasping operation data.",
+    "cpc_id": [
+        "E04G 23/082",
+        "B25J 9/1669",
+        "B62D 67/00",
+        "G06Q 10/0633",
+        "G06Q 50/08",
+        "Y02W 30/56",
+        "G05B 2219/45063",
+        "G05B 2219/2616"
+    ]
+}
+{
+    "patent_number": "US-11941612-B2",
+    "abstract": "A vehicle cryptocurrency mining system includes a generator configured to generate power by driving an engine, a battery configured to the power generated by the generator, an inverter connected to the generator or the battery and configured to convert DC power into AC power, a mining device configured to mine cryptocurrency using power converted and output by the inverter, and a control device configured to monitor a mining state of the mining device.",
+    "cpc_id": [
+        "G06Q 20/3678",
+        "G06Q 20/065",
+        "G06Q 20/3674",
+        "B60R 16/03",
+        "B60R 16/033",
+        "Y02T 10/92",
+        "H02J 7/14",
+        "H02M 7/42"
+    ]
+}
+{
+    "patent_number": "US-11941794-B2",
+    "abstract": "System and methods and computer program code are provided to perform a commissioning process comprising capturing, using an image capture device, an image of an area containing at least a first fixture, identifying location and positioning information associated with the image, performing image processing of the image to identify a location of the at least first fixture in the image, and converting the location of the at least first fixture in the image into physical coordinate information associated with the at least first fixture.",
+    "cpc_id": [
+        "G06T 7/0004",
+        "G06T 7/10",
+        "G06T 7/11",
+        "G06T 7/136",
+        "G06T 7/70",
+        "G06T 7/73",
+        "G06T 15/50",
+        "G06T 15/506",
+        "G06T 19/003",
+        "G06T 19/006",
+        "G06T 19/20",
+        "G06T 7/174",
+        "G06T 7/194",
+        "G06T 2207/10004",
+        "G06T 2207/20012",
+        "G06T 2207/20212",
+        "G06T 2207/20221",
+        "G06K 9/00577",
+        "G06K 9/00664",
+        "G06K 9/00671",
+        "G06K 9/2027",
+        "G06K 9/2054",
+        "G06K 9/209",
+        "G06K 9/22",
+        "G06K 9/3233",
+        "G06K 9/3241",
+        "G06K 9/34",
+        "G06K 9/36",
+        "H04B 10/116",
+        "H04B 10/516",
+        "G01S 5/01",
+        "G01S 5/013",
+        "G01S 5/16",
+        "G01C 21/206",
+        "G01C 21/3804",
+        "G01C 21/3811",
+        "G01C 21/383",
+        "Y02B 20/40",
+        "Y02B 90/20",
+        "H05B 47/115",
+        "H05B 47/125",
+        "H05B 47/155",
+        "G06F 18/10",
+        "G06F 18/20",
+        "G06F 18/25",
+        "G06F 18/251"
+    ]
+}
+{
+    "patent_number": "US-11942207-B2",
+    "abstract": "An artificial intelligence system for generating zoological instruction sets from biological extractions. The system includes a computing device, configured to retrieve a biological extraction pertaining to an animal. The computing device is further configured to generate a zoological classifier wherein the zoological classifier utilizes a biological extraction as an input and outputs a zoological profile. The computing device is further configured to receive a zoological input from a remote device, wherein the zoological input identifies a zoological habit. The computing device is further configured to select a zoological machine-learning model utilizing a zoological input, wherein the zoological machine-learning model utilizes a zoological profile as an input and outputs a zoological instruction set. The computing device is further configured to calculate a zoological instruction set utilizing a zoological machine-learning model.",
+    "cpc_id": [
+        "G06N 20/00",
+        "G06N 20/10",
+        "G06N 7/005",
+        "G06V 10/764",
+        "G06V 10/762",
+        "G06V 10/774",
+        "G06V 20/698",
+        "G16H 50/20",
+        "G16H 50/70",
+        "G16H 10/60",
+        "G16H 20/60",
+        "Y02A 90/10",
+        "B01D 11/0207",
+        "G06K 9/6215",
+        "G06K 9/6218",
+        "G06K 9/623",
+        "G06K 9/6267",
+        "G06K 9/6278",
+        "G16B 40/00"
+    ]
+}
+{
+    "patent_number": "US-11942209-B2",
+    "abstract": "Methods, systems, and apparatus monitor medication usage data for one patient or a population of patients, which can be processed to determine compliance patterns. Such methods and systems can associate, analyze, organize and present medication usage data, compliance patterns, and correlations between compliance patterns and outcomes data for electronic analysis or analysis by a caretaker. Such methods, systems, and apparatus permit analysis of compliance patterns to enable, for example, establishment or adjustment of safe and effective treatment regimens, and may include feedback systems for ensuring authenticity of medication and/or effects of medication on a patient.",
+    "cpc_id": [
+        "G16H 20/70",
+        "G16H 20/10",
+        "G16H 40/67",
+        "G16H 20/13",
+        "G16H 40/63",
+        "G16Z 99/00",
+        "Y02A 90/10"
+    ]
+}
+{
+    "patent_number": "US-11942271-B2",
+    "abstract": "Disclosed herein is electrode comprising a current collector comprising a conductor layer having at least a first surface; and elongated metal carbide nanostructures extending from the first surface; and a carbonaceous energy storage media disposed on the first surface and in contact with the elongated metal carbide nanostructures. Disclosed herein too is an ultracapacitor comprising at least one electrode comprising a current collector comprising a conductor layer having at least a first surface; and elongated metal carbide nanostructures extending from the first surface; and a carbonaceous energy storage media disposed on the first surface and in contact with the elongated metal carbide nanostructures.",
+    "cpc_id": [
+        "H01G 11/36",
+        "H01G 11/24",
+        "H01G 11/26",
+        "H01G 11/28",
+        "H01G 11/48",
+        "H01G 11/46",
+        "H01G 11/70",
+        "H01G 11/86",
+        "C01B 32/158",
+        "B82Y 30/00",
+        "Y02E 60/13"
+    ]
+}
+{
+    "patent_number": "US-11942287-B2",
+    "abstract": "A load control device may be configured to control multiple characteristics of one or more electrical loads such as the intensity and color of a lighting load. The load control device may switch from controlling one characteristic of the electrical loads to controlling another characteristic of the electrical loads based on the position of one or more components of the load control device. Such a position may be manipulated by moving the one or more components relative to an idle position of the load control device. The load control device may be a wall-mounted device or a battery-powered remote control device.",
+    "cpc_id": [
+        "H05B 47/19",
+        "H05B 47/10",
+        "H05B 47/11",
+        "H05B 45/00",
+        "H05B 39/041",
+        "H05B 45/20",
+        "F21V 23/0492",
+        "F21V 23/023",
+        "Y02B 20/40",
+        "H01H 19/585",
+        "H01H 7/08",
+        "H01H 25/06",
+        "H01H 9/16",
+        "H01H 13/64",
+        "H01H 25/065"
+    ]
+}
+{
+    "patent_number": "US-11942342-B2",
+    "abstract": "A conveying unit includes a housing; a collision prevention mechanism disposed on a sidewall of the housing; a gripping member configured to hold a carrier for carrying a semiconductor structure; a sensor disposed on the gripping member and configured to measure and collect data associated with vibration of the gripping member; and an unit controller disposed on the gripping member and configured to analyze the data from the sensor and control a movement of the conveying unit.",
+    "cpc_id": [
+        "H01L 21/67242",
+        "H01L 21/67727",
+        "H01L 21/67005",
+        "H01L 21/6773",
+        "H01L 21/67733",
+        "H01L 21/67253",
+        "H01L 21/67703",
+        "B65G 49/07",
+        "B66C 7/08",
+        "B66C 13/18",
+        "G05B 19/41815",
+        "G05B 2219/45031",
+        "Y02P 90/02"
+    ]
+}
+{
+    "patent_number": "US-11942484-B2",
+    "abstract": "A semiconductor device includes an insulating substrate, a first semiconductor layer formed of silicon and positioned above the insulating substrate, a second semiconductor layer formed of a metal oxide and positioned above the first semiconductor layer, a first insulating film formed of a silicon nitride and positioned between the first semiconductor layer and the second semiconductor layer, and a block layer positioned between the first semiconductor film and the second semiconductor layer, the block layer hydrogen diffusion of which is lower than that of the first insulating film.",
+    "cpc_id": [
+        "H01L 27/1225",
+        "H01L 27/1237",
+        "H01L 27/1248",
+        "H01L 27/1251",
+        "H01L 29/42384",
+        "H01L 29/513",
+        "H01L 29/517",
+        "H01L 29/518",
+        "H01L 29/78606",
+        "H01L 29/78633",
+        "H01L 29/78675",
+        "H01L 29/7869",
+        "H01L 2029/42388",
+        "H01L 29/78603",
+        "G06F 1/26",
+        "H02J 13/00",
+        "H02J 13/00016",
+        "H04L 41/069",
+        "H04L 47/2416",
+        "H04L 67/12",
+        "H04Q 9/02",
+        "H04Q 2209/826",
+        "Y02E 60/00",
+        "Y04S 40/124"
+    ]
+}
+{
+    "patent_number": "US-11942561-B2",
+    "abstract": "A high efficiency configuration for a solar cell module comprises solar cells conductively bonded to each other in a shingled manner to form super cells, which may be arranged to efficiently use the area of the solar module, reduce series resistance, and increase module efficiency.",
+    "cpc_id": [
+        "H01L 31/02008",
+        "H01L 31/0201",
+        "H01L 31/022441",
+        "H01L 31/035281",
+        "H01L 31/042",
+        "H01L 31/044",
+        "H01L 31/048",
+        "H01L 31/0508",
+        "H01L 31/0512",
+        "H01L 31/0747",
+        "H01L 31/186",
+        "H01L 31/1876",
+        "H01L 31/188",
+        "H02J 3/381",
+        "H02J 3/46",
+        "H02J 5/00",
+        "H02J 2300/24",
+        "H02S 40/32",
+        "H02S 40/34",
+        "Y02E 10/50"
+    ]
+}
+{
+    "patent_number": "US-11942564-B2",
+    "abstract": "A tandem photovoltaic device includes: a tunnel junction between an upper cell unit and a lower cell unit. The lower cell unit is a crystalline silicon cell. The tunnel junction includes: a carrier transport layer, a crystalline silicon layer, and an intermediate layer located between the carrier transport layer and the crystalline silicon layer. The carrier transport layer is a metal oxide layer. The intermediate layer includes a tunneling layer. The crystalline silicon layer has a doping concentration greater than or equal to 1017 cm\u22123. The carrier transport layer is in direct contact with a shadow surface of the upper cell unit. If the crystalline silicon layer is a p-type crystalline silicon layer, a first energy level is close to a second energy level. If the crystalline silicon layer is an n-type crystalline silicon layer, a third energy level is close to a fourth energy level.",
+    "cpc_id": [
+        "H01L 31/00-078",
+        "Y02E 10/50-60"
+    ]
+}
+{
+    "patent_number": "US-11942565-B2",
+    "abstract": "Methods of fabricating solar cell emitter regions using substrate-level ion implantation, and resulting solar cells, are described. In an example, a method of fabricating a solar cell involves forming a lightly doped region in a semiconductor substrate by ion implantation, the lightly doped region of a first conductivity type of a first concentration. The method also involves forming a first plurality of dopant regions of the first conductivity type of a second, higher, concentration by ion implantation, the first plurality of dopant regions overlapping with a first portion of the lightly doped region. The method also involves forming a second plurality of dopant regions by ion implantation, the second plurality of dopant regions having a second conductivity type of a concentration higher than the first concentration, and the second plurality of dopant regions overlapping with a second portion of the lightly doped region and alternating with but not overlapping the first plurality of dopant regions.",
+    "cpc_id": [
+        "H01L 31/1864",
+        "H01L 31/0682",
+        "H01L 31/1804",
+        "H01L 31/022441",
+        "Y02E 10/547",
+        "Y02P 70/50"
+    ]
+}
+{
+    "patent_number": "US-11942605-B2",
+    "abstract": "A solid-state battery including a solid-state battery laminate that includes at least one battery constituent unit including a positive electrode layer, a negative electrode layer, and a solid electrolyte layer interposed between the positive electrode layer and the negative electrode layer along a lamination direction, and defining: an overlapping part in which the positive electrode layer and the negative electrode layer overlap each other in the lamination direction, and a non-overlapping part in which the positive electrode layer and the negative electrode layer do not overlap each other in the lamination direction. At least one main surface having a normal in the lamination direction has a recess overlapping the overlapping part and defines a step between the overlapping part and the non-overlapping part or in the non-overlapping part.",
+    "cpc_id": [
+        "H01M 10/0585",
+        "H01M 10/0525",
+        "H01M 50/548",
+        "H01M 50/552",
+        "H01M 50/562",
+        "H01M 6/40",
+        "H01M 50/133",
+        "H01M 10/0562",
+        "H01G 2/065",
+        "H01G 11/06",
+        "H01G 11/26",
+        "H01G 11/50",
+        "H01G 11/56",
+        "H01G 11/76",
+        "Y02E 60/10",
+        "Y02P 70/50"
+    ]
+}
+{
+    "patent_number": "US-11942610-B2",
+    "abstract": "The present invention relates to a pitch-variable battery fixture and a battery cell formation apparatus having the same. A pitch of clamping plates of a plurality of clamping blocks is increased by a slide actuator of the pitch-variable battery fixture, and then the clamping plates are inserted into a plurality of compartments of a battery tray. The clamping plates are urged to clamp batteries by the slide actuator. The battery tray is provided for placement of the batteries, and a compressing force is exerted for shaping the batteries during a battery cell formation. The pitch-variable battery fixture is provided for clamping batteries having different thicknesses. According to the actual thickness of each battery, the thickness of the formed battery can be shaped.",
+    "cpc_id": [
+        "H01M 10/441",
+        "H01M 10/446",
+        "H01M 50/204",
+        "H01M 50/211",
+        "H01M 10/0525",
+        "H01M 10/0585",
+        "Y02E 60/10",
+        "Y02P 70/50"
+    ]
+}
+{
+    "patent_number": "US-11942612-B2",
+    "abstract": "In a battery system, a battery module includes a plurality of cells. A management unit manages charging-discharging of the battery module and a temperature inside the battery module. The management unit estimates a maximum temperature of an inside of a cell in the battery module based on a measured temperature in the battery module, and controls, during charging-discharging of the battery module, a charging-discharging current of the battery module and/or cooling of the battery module in such a way that the estimated maximum temperature does not exceed an upper limit temperature.",
+    "cpc_id": [
+        "H01M 10/443",
+        "H01M 10/48",
+        "H01M 10/486",
+        "H01M 10/613",
+        "H01M 10/625",
+        "H01M 10/633",
+        "H01M 10/643",
+        "H01M 10/647",
+        "H01M 10/6556",
+        "H01M 10/6568",
+        "H01M 2220/20",
+        "H01M 10/6567",
+        "B60L 50/60",
+        "B60L 53/00",
+        "B60L 58/12",
+        "B60L 58/26",
+        "B60L 2240/545",
+        "B60L 1/003",
+        "B60L 1/02",
+        "B60L 50/64",
+        "B60L 58/16",
+        "H02J 7/0013",
+        "H02J 7/0047",
+        "H02J 7/007194",
+        "Y02E 60/10",
+        "Y02T 10/70",
+        "Y02T 10/7072",
+        "Y02T 90/12",
+        "Y02T 90/14"
+    ]
+}
+{
+    "patent_number": "US-11942617-B2",
+    "abstract": "A battery module includes a plurality of battery cells, a module case configured to accommodate the plurality of battery cells, an air intake unit provided to one side of the module case and configured to guide an air into the module case to cool the plurality of battery cells, an air discharge unit provided to the other side of the module case and configured to discharge the air introduced into the module case through the air intake unit to the outside of the module case, and at least one sheet member attached to an inner wall of the module case between the air discharge unit and the air intake unit and configured to expand at a predetermined temperature or above to seal an inner space of the module case.",
+    "cpc_id": [
+        "A62C 2/065",
+        "A62C 3/07",
+        "A62C 3/16",
+        "A62C 2/06",
+        "H01M 10/6566",
+        "H01M 10/482",
+        "H01M 10/613",
+        "H01M 10/647",
+        "H01M 10/627",
+        "H01M 10/6561",
+        "H01M 50/211",
+        "H01M 50/24",
+        "H01M 50/209",
+        "H01M 50/231",
+        "H01M 50/233",
+        "H01M 2200/10",
+        "H01M 2220/10",
+        "H01M 10/48",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11942623-B2",
+    "abstract": "Provided are a negative electrode that is for use in a non-aqueous electrolyte secondary battery, includes a porous metal body as a current collector, contains a skeleton-forming agent highly infiltrated in the current collector so that it is less likely to suffer from structural degradation and provides improved cycle durability; and a non-aqueous electrolyte secondary battery including such a negative electrode. The negative electrode for use in a non-aqueous electrolyte secondary battery includes a current collector including a porous metal body; a first negative electrode material disposed in pores of the porous metal body and including a conductive aid, a binder, and a negative electrode active material including a silicon-based material; and a second negative electrode material disposed in pores of the porous metal body and including a skeleton-forming agent including a silicate having a siloxane bond.",
+    "cpc_id": [
+        "H01M 4/134",
+        "H01M 4/621",
+        "H01M 4/5821",
+        "H01M 2004/027",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11942624-B2",
+    "abstract": "A battery electrode composition is provided comprising composite particles, with each composite particle comprising active material and a scaffolding matrix. The active material is provided to store and release ions during battery operation. For certain active materials of interest, the storing and releasing of the ions causes a substantial change in volume of the active material. The scaffolding matrix is provided as a porous, electrically-conductive scaffolding matrix within which the active material is disposed. In this way, the scaffolding matrix structurally supports the active material, electrically interconnects the active material, and accommodates the changes in volume of the active material.",
+    "cpc_id": [
+        "H01M 10/052",
+        "H01M 10/054",
+        "H01M 4/0402",
+        "H01M 4/13",
+        "H01M 4/139",
+        "H01M 4/364",
+        "H01M 4/366",
+        "H01M 4/38",
+        "H01M 4/48",
+        "H01M 4/624",
+        "H01M 4/625",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11942629-B2",
+    "abstract": "A lithium electrode having an acrylic polymer layer formed on a lithium metal layer wherein the acrylic polymer layer functions as a protective layer for the lithium metal layer, and functions as a release layer in the manufacturing process of the lithium electrode. The acrylic polymer layer shows an effect that does not act as a resistance in the lithium secondary battery comprising the lithium electrode during operation of the battery.",
+    "cpc_id": [
+        "H01M 4/382",
+        "H01M 4/604",
+        "H01M 10/0525",
+        "H01M 50/46",
+        "H01M 2004/027",
+        "H01M 2004/028",
+        "H01M 2300/0051",
+        "H01M 10/052",
+        "H01M 4/366",
+        "H01M 4/134",
+        "H01M 4/1395",
+        "H01M 4/62",
+        "H01M 10/4235",
+        "H01M 4/0402",
+        "H01M 10/0569",
+        "H01M 2300/0028",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11942634-B2",
+    "abstract": "A process for making a partially coated electrode active material may involve: (a) providing an electrode active material of the formula Li1+xTM1\u2212xO2, wherein TM is a combination of Ni, Co and, optionally, Mn, and, optionally, at least one metal selected from Al, Ti, Mo, W, and Zr, and x is in the range of from zero to 0.2, wherein at least 60 mole-% of the transition metal of TM is Ni, and wherein the electrode active material has a residual moisture content in the range of from 50 to 1,000 ppm; (b) treating the electrode active material with a metal alkoxide or metal halide or metal amide or alkyl metal compound; (c) treating the material obtained in (b) with moisture; and (d) repeating the sequence of (b) and (c) twice to 4 times, wherein, in the last sequence of (b) and (c), moisture is at least partially substituted by ozone.",
+    "cpc_id": [
+        "H01M 4/525",
+        "H01M 4/131",
+        "H01M 4/134",
+        "H01M 4/1391",
+        "H01M 4/1395",
+        "H01M 4/364",
+        "H01M 4/366",
+        "H01M 4/505",
+        "H01M 10/0525",
+        "H01M 10/052",
+        "H01M 4/62",
+        "C01F 7/02",
+        "Y02E 60/10",
+        "C01G 53/50",
+        "C01P 2004/80",
+        "C01P 2006/40"
+    ]
+}
+{
+    "patent_number": "US-11942644-B2",
+    "abstract": "A preparation method of a cathode slurry and a battery are provided. The preparation method includes: S1, mixing materials containing a plasticizer and an additive to form a premixed slurry A; and S2, mixing a styrene-butadiene rubber emulsion with the premixed slurry A. The plasticizer includes a first functional group including at least one of a hydroxyl group, a carbonate group, and a ketone group. The additive includes a second functional group including at least one of a carboxyl group, a nitrile group, and an amide group.",
+    "cpc_id": [
+        "H01M 4/622",
+        "H01M 4/587",
+        "H01M 4/624",
+        "H01M 2004/027",
+        "H01M 4/133",
+        "H01M 4/134",
+        "H01M 4/1393",
+        "H01M 4/1395",
+        "H01M 10/0525",
+        "H01M 4/0404",
+        "H01M 4/62",
+        "H01M 4/04",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11942647-B2",
+    "abstract": "The present application relates to a harness isolation plate assembly, a battery module, a battery pack and a device. The harness isolation plate assembly includes a plurality of isolation units comprising busbars and insulating films connecting the busbars; and a connecting assembly through which the adjacent isolation units are connected. In the present application, the harness isolation plate assembly includes a plurality of separate isolation units. Upon molding, each isolation unit can be processed independently. Moreover, a size of each isolation unit is small, thus reducing processing difficulty. Furthermore, it is easy to control a location of each busbar, such that locating accuracy of the busbars is improved so as to enhance connecting reliability between the busbars and an electrode lead. Meanwhile, in each isolation unit, the busbars are connected through the insulating films, such that a risk of short circuit for the busbars is low.",
+    "cpc_id": [
+        "H01M 50/204",
+        "H01M 50/249",
+        "H01M 50/507",
+        "H01M 50/593",
+        "H01M 2220/20",
+        "H01M 50/514",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11942648-B2",
+    "abstract": "In order to produce a battery carrier which has a battery tray with a cooling plate, a tray plate and a cooling plate are joined to one another, wherein the cooling plate has at least one preshaped cooling duct. The tray plate jointly with the cooling plate is then formed by folding to produce the battery tray. During the folding of the tray plate and the cooling plate, a cooling duct section is bent around a bottom edge of the battery tray. The cooling duct is provided with connection elements via which a cooling fluid is supplied and discharged. During the course of the finishing, end shape-producing shaping of the cooling duct can also be performed. Internal pressure is applied to the cooling duct in order to restore the shape of the cooling duct which collapsed due to the forming.",
+    "cpc_id": [
+        "B21D 53/02",
+        "B21D 53/88",
+        "B21D 51/18",
+        "B60K 1/04",
+        "B60K 11/02",
+        "B60K 2001/005",
+        "H01M 10/613",
+        "H01M 10/6554",
+        "H01M 10/6556",
+        "H01M 50/20",
+        "H01M 50/204",
+        "H01M 50/207",
+        "H01M 50/249",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11942657-B2",
+    "abstract": "An inter-terminal connection structure electrically connecting terminal portions via a conductive component. The conductive component includes a conductive member having connection portions that are fastened so as to be connected to the respective terminal portions, and a case having insulation properties while accommodating the conductive member, an insulating cover covering at least one of the terminal portions and the connection portions, an opening window provided to the insulating cover and exposing at least one of the terminal portions and the connection portions, and a relay portion provided to the connection portion or the terminal portion fastened to the at least one of the terminal portions and the connection portions covered by the insulating cover while being inserted through the opening window to be connected to the at least one of the terminal portions and the connection portions.",
+    "cpc_id": [
+        "H01M 50/503",
+        "H01M 50/258",
+        "H01M 50/505",
+        "H01M 50/296",
+        "H01M 50/209",
+        "H01M 50/227",
+        "H01M 50/249",
+        "H01M 2220/20",
+        "H01R 11/09",
+        "H01R 4/308",
+        "H01R 4/34",
+        "H01R 4/70",
+        "H01R 9/24",
+        "H01R 4/38",
+        "Y02E 60/10",
+        "H01G 11/12",
+        "H01G 11/74"
+    ]
+}
+{
+    "patent_number": "US-11942658-B2",
+    "abstract": "A battery system for an electric vehicle includes a fixed cover, and a removable cover arranged over battery modules and a high voltage distribution system. The battery system includes a busbar arranged at least partially over a region of the battery modules and under the removable cover. The busbar includes a fixed section and a movable section, or a hinge, such that the busbar can be repositioned out of the way. The support tray includes a link between the fixed and movable sections. Floating fasteners, allowing at least one of radial float and axial float are used to secure the link to the support tray, thereby avoiding safety hazards and reducing the potential for short circuits in high voltage distribution systems or conductors thereof. The floating fasteners include a head, a neck, an engagement section, and a washer, which prevent removal from a component once installed.",
+    "cpc_id": [
+        "B60R 13/08",
+        "B60R 16/033",
+        "B60R 2013/0807",
+        "H01M 2220/20",
+        "H01M 50/249",
+        "H01M 50/262",
+        "H01M 50/271",
+        "H01M 50/503",
+        "H01M 50/507",
+        "H01M 50/209",
+        "H01M 50/514",
+        "H01M 50/522",
+        "H01M 50/55",
+        "H01M 50/553",
+        "H02B 1/20",
+        "H02B 1/30",
+        "H01R 11/288",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11942660-B2",
+    "abstract": "A battery pack includes: a plurality of bare cells including an electrode terminal at both ends thereof; and an electrode tab arranged at each of the both ends to electrically connect adjacent bare cells to each other, wherein the electrode tab includes: a plate including a plurality of opening portions formed corresponding respectively to the plurality of bare cells; a plurality of fuse portions extending from one edge of the plurality of opening portions into the plurality of opening portions; and a plurality of coupling portions bent from the plurality of fuse portions, arranged at a center portion of the plurality of opening portions, and coupled to the electrode terminal.",
+    "cpc_id": [
+        "H01M 50/531",
+        "H01M 50/213",
+        "H01M 50/50",
+        "H01M 50/548",
+        "H01M 50/583",
+        "H01M 50/503",
+        "H01M 50/516",
+        "H01M 50/528",
+        "H01M 50/566",
+        "H01M 50/581",
+        "H01M 2200/103",
+        "H01M 50/20",
+        "H01M 50/502",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11942775-B2",
+    "abstract": "A high voltage battery cluster, and an overcurrent protection circuit and a switch box of the high voltage battery cluster are provided. The overcurrent protection circuit includes a first fusing module and a second fusing module. Since a withstand current-time curve of the first fusing module is different from a withstand current-time curve of the second fusing module, in a case that an overcurrent fault occurs in a high voltage battery cluster, one fusing module can cause an open circuit in the high voltage battery cluster prior to another fusing module, thereby preventing the high voltage battery cluster from being broken by a large current when an overcurrent fault occurs in the high voltage battery cluster, thus ensuring an electrical safety of the high voltage battery cluster.",
+    "cpc_id": [
+        "H02H 3/087",
+        "H02H 7/18",
+        "B60L 3/0069",
+        "H02J 7/00304",
+        "H02J 7/0031",
+        "H02J 7/0026",
+        "H02J 2207/20",
+        "Y02E 60/10"
+    ]
+}
+{
+    "patent_number": "US-11942788-B2",
+    "abstract": "Example embodiments of systems, devices, and methods are provided herein for energy systems having multiple modules arranged in cascaded fashion for storing power from one or more photovoltaic sources. Each module includes an energy source and converter circuitry that selectively couples the energy source to other modules in the system over an AC interface for generating AC power or for receiving and storing power from a charge source. Each module also includes a DC interface for receiving power from one or more photovoltaic sources. Each module can be controlled by control system to route power from the photovoltaic source to that modules energy source or to the AC interface. The energy systems can be arranged in single phase or multiphase topologies with multiple serial or interconnected arrays. The energy systems can be arranged such that each module receives power from the same single photovoltaic source, or multiple photovoltaic sources.",
+    "cpc_id": [
+        "H02J 3/32",
+        "H02J 3/381",
+        "H02J 7/0013",
+        "H02J 7/06",
+        "H02J 7/345",
+        "H02J 2300/20",
+        "H02J 2300/24",
+        "H02J 2300/28",
+        "H02J 2300/30",
+        "H02M 3/33573",
+        "H02M 7/537",
+        "H02M 1/0043",
+        "H02M 1/007",
+        "H02M 3/158",
+        "H02M 3/33561",
+        "H02M 3/337",
+        "H02M 7/49",
+        "H02M 7/5387",
+        "Y02E 10/56"
+    ]
+}
+{
+    "patent_number": "US-11942790-B2",
+    "abstract": "A control apparatus is described for controlling a frequency set-point for a first AC network electrically connected to a first HVDC station to regulate active power. The controller has a frequency controller operable in a first mode of operation to determine a frequency set-point for the first AC network based on a measured DC voltage at the first HVDC station. A disturbance detector is configured to monitor the measured value of DC voltage at the first HVDC station for a predetermined characteristic indicative that a variation in measured DC voltage does correspond to a known modulation applied to the DC voltage by a second HVDC station. The frequency controller is configured to determine the frequency set-point for the first AC network based on a measured value of DC voltage if said predetermined characteristic is detected, and to control the frequency set-point to a predetermined default frequency if not detected.",
+    "cpc_id": [
+        "H02J 2300/28",
+        "H02J 3/36",
+        "H02J 3/381",
+        "Y02E 10/76",
+        "Y02E 60/60"
+    ]
+}
+{
+    "patent_number": "US-11942795-B1",
+    "abstract": "A multi-antenna system for harvesting energy and transmitting data includes an energy storing unit, antenna transmission units, and a load unit. Each antenna transmission unit includes an antenna module, a splitting module, an energy generation module, and a data processing module. The splitting module splits a wireless signal received by the antenna module into a first splitting signal and a second splitting signal and transmits the first splitting signal to an energy generation module to convert the first splitting signal into electrical energy stored in an energy storing unit and provided to the data processing module. The energy storing unit provides the electrical energy for the load unit. The data processing module receives one of the second splitting signals, converts it into a control signal, and transmits the control signal to the load unit. The load unit operates according to the control signal.",
+    "cpc_id": [
+        "B60L 5/005",
+        "B60L 53/12",
+        "B60L 53/122",
+        "B60L 53/124",
+        "B60L 53/126",
+        "H01F 27/006",
+        "H01F 38/14",
+        "H02G 7/16",
+        "H02J 5/00",
+        "H02J 5/005",
+        "H02J 7/00",
+        "H02J 7/0042",
+        "H02J 7/0044",
+        "H02J 7/0045",
+        "H02J 7/025",
+        "H02J 17/00",
+        "H02J 50/00",
+        "H02J 50/001",
+        "H02J 50/005",
+        "H02J 50/05",
+        "H02J 50/10",
+        "H02J 50/12",
+        "H02J 50/15",
+        "H02J 50/20",
+        "H02J 50/23",
+        "H02J 50/27",
+        "H02J 50/30",
+        "H02J 50/40",
+        "H02J 50/402",
+        "H02J 50/50",
+        "H02J 50/502",
+        "H02J 50/60",
+        "H02J 50/70",
+        "H02J 50/80",
+        "H02J 50/90",
+        "H04B 5/0037",
+        "Y02T 90/12"
+    ]
+}
+{
+    "patent_number": "US-11942813-B2",
+    "abstract": "When a module controller of a battery system detects an abnormality of a battery module, the module controller selects the battery module without stopping the battery module. After that, the module controller compares a current value of a current supplied to a load, with a total value of rated currents of all battery modules that are normal and that are supplying power to the load. When the current value of the current supplied to the load is greater than the total value of the rated currents of the battery modules, the module controller performs a control to stop all the battery modules. When the current value of the current supplied to the load is less than or equal to the total value of the rated currents of all the battery modules that are supplying power to the load, the module controller performs a control to stop the abnormal battery module and not to stop the normal battery modules.",
+    "cpc_id": [
+        "H02J 7/00714",
+        "H02J 7/0013",
+        "H02J 7/0048",
+        "H02J 7/0063",
+        "H02J 7/0047",
+        "H02J 7/005",
+        "H02J 7/00",
+        "H02J 7/007194",
+        "H02J 7/34",
+        "H01M 10/425",
+        "H01M 10/482",
+        "H01M 10/486",
+        "H01M 2220/10",
+        "H01M 10/441",
+        "H01M 10/443",
+        "H01M 2010/4271",
+        "H01M 10/44",
+        "H01M 10/48",
+        "Y02E 60/10",
+        "H02H 7/18"
+    ]
+}
+{
+    "patent_number": "US-11942842-B2",
+    "abstract": "In one possible embodiment, a motor winding is provided having a high density multi-conductor wire bundle with a compacted Litz wire bundle. The compacted Litz wire bundle has a serpentine configuration with a central portion having compacted Litz wire and end turns having non-compacted Litz wire.",
+    "cpc_id": [
+        "B65H 2403/732",
+        "B65H 3/5261",
+        "F16D 7/00",
+        "H02K 49/065",
+        "H02K 16/02",
+        "H02K 21/12",
+        "H02K 3/14",
+        "H02K 3/30",
+        "H02K 3/32",
+        "H02K 3/47",
+        "H02K 7/14",
+        "H02K 9/02",
+        "H02K 9/06",
+        "H02K 9/14",
+        "H02K 9/227",
+        "Y02E 10/72"
+    ]
+}
+{
+    "patent_number": "US-11942844-B2",
+    "abstract": "A tooth-wound coil of a stator or of a stator segment of a dynamo-electric machine having two straight sections spaced apart from each other and running substantially parallel. Two 180\u00b0 curves are located on the ends thereof, wherein the straight sections have an active part area, the axial extend of which is less than or equal to that of the straight section. The tooth-wound coil has a symmetrical extension plane running in the longitudinal direction. An insulation material is provided around the straight sections of the tooth-wound coil. The material effects groove isolation and/or phase isolation in the stator or stator segment.",
+    "cpc_id": [
+        "H02K 3/325",
+        "H02K 3/40",
+        "H02K 3/487",
+        "H02K 3/522",
+        "H02K 7/183",
+        "H02K 15/0018",
+        "H02K 15/0043",
+        "H02K 15/105",
+        "H02K 3/34",
+        "H02K 3/345",
+        "F03D 9/255",
+        "F03D 1/00",
+        "Y02E 10/72"
+    ]
+}
+{
+    "patent_number": "US-11942858-B2",
+    "abstract": "A switching arrangement for reducing contactor wear of an energy storage system having a plurality of battery packs arranged in parallel for powering a load. The switching arrangement includes a contactor for each battery pack. The contactors connect and disconnect the battery packs relative to the load by closing and opening, respectively, an electric arc reducing circuitry associated to one of the contactors. The switching arrangement is configured to electrically disconnect the battery packs from the load by means of the contactors such that the contactor being associated with the electric arc reducing circuitry is opened last.",
+    "cpc_id": [
+        "H02M 1/34",
+        "H01H 9/0271",
+        "H01H 9/30",
+        "H01H 9/542",
+        "H01H 2009/546",
+        "B60L 3/0046",
+        "B60L 3/0069",
+        "B60L 50/60",
+        "B60L 58/19",
+        "H02J 7/0031",
+        "H02J 7/0063",
+        "H02J 7/34",
+        "Y02T 10/70",
+        "B60R 16/033",
+        "H02H 9/04",
+        "B60Y 2200/91"
+    ]
+}
+{
+    "patent_number": "US-11942864-B2",
+    "abstract": "A voltage conversion circuit and a display device are provided. The voltage conversion circuit includes a voltage conversion module, a comparison module, and a control module. The voltage conversion module includes at least two voltage conversion units, and the voltage conversion unit converts the input voltage into a target voltage. The comparison module compares each of testing voltages with a reference voltage to generate a feedback signal. The control module receives the feedback signal and controls the voltage conversion unit to convert the input voltage to the target voltage based on the feedback signal.",
+    "cpc_id": [
+        "H02M 3/158",
+        "H02M 3/1584",
+        "H02M 3/00",
+        "H02M 3/1582",
+        "H02M 5/00",
+        "H02M 7/00",
+        "H02M 1/0009",
+        "H02M 1/0032",
+        "H02M 1/0054",
+        "G09G 3/006",
+        "G09G 2330/12",
+        "G09G 2330/021",
+        "G09G 2330/028",
+        "Y02B 70/10"
+    ]
+}
+{
+    "patent_number": "US-11942889-B2",
+    "abstract": "A first torque calculation unit 114 calculates torque TQ_DC currently generated by a motor 106 based on a DC current DC1. A second torque calculation unit 115 calculates torque TQ_UVW currently generated by the motor 106 based on U-phase, V-phase, and W-phase currents. A torque limit calculation unit 116 calculates a torque limit TQ_LMT1 using a torque limit characteristic map measured in advance based on a current limit DC_LMT1. A torque limit correction unit 117 compares first torque TQ_DC with second torque TQ_UVW to calculate a torque variation degree KP1. Then, the torque limit TQ_LMT1 is corrected using the variation degree KP1 to calculate a torque limit TQ_LMT2. As a result, even if required torque reaches the torque limit, the DC current does not exceed the current limit, and the output of the motor can be fully utilized by approaching the current limit.",
+    "cpc_id": [
+        "H02P 6/08",
+        "H02P 2205/01",
+        "H02P 2205/05",
+        "H02P 23/20",
+        "H02P 27/08",
+        "B60L 15/20",
+        "B60L 53/20",
+        "B60L 58/12",
+        "B60L 58/18",
+        "B60L 2240/421",
+        "B60L 2240/423",
+        "B60L 2240/549",
+        "B60L 2250/28",
+        "B60L 3/0046",
+        "B60L 15/08",
+        "Y02T 10/64",
+        "Y02T 90/14",
+        "Y02T 10/62",
+        "Y02T 10/70",
+        "Y02T 10/7072",
+        "Y02T 10/72"
+    ]
+}
+{
+    "patent_number": "US-11942895-B2",
+    "abstract": "A panel connected body includes a plurality of flat panels arranged in a matrix of m rows and n columns, where m\u22653 and n\u22653; and a plurality of row-direction connection portions and column-direction connection portions which connect together panels that are adjacent in a row direction and column direction, respectively. A first type row satisfying relationships D1\u22652L and Dy\u2265Dy\u22121\u22122L and a second type row satisfying relationships Dn\u22652L and Dy\u2265Dy+1+2L are alternately included, where Dy is a length along the column direction of the column-direction connection portions in a y-th column, and L is a thickness of the panels. The relationship E\u2264WC\u2212L is satisfied, where WC is a length along the column direction of the panels and E is a length along the column direction of the row-direction connection portions.",
+    "cpc_id": [
+        "H02S 30/20",
+        "H02S 40/36",
+        "H01L 31/048",
+        "H01L 31/049",
+        "H01L 31/042",
+        "Y02E 10/50"
+    ]
+}
+{
+    "patent_number": "US-11942896-B2",
+    "abstract": "A device (9) for protecting a direct current electrical system (1) having one or more modules (2) from electric arcs comprises: a first sensor (10) provided with a first ring of ferromagnetic material configured to generate a first signal, representing a oscillating component of a current flowing through a cable inserted into the ring; a conditioning stage (12), having a bandpass filter, for conditioning the first signal; a first threshold comparator (13); a counter (15); a processor (14); a second sensor (19), configured to generate a second signal representing a direct current component of the current flowing through the cable; a second threshold comparator (20).",
+    "cpc_id": [
+        "H02S 50/10",
+        "H02H 1/0015",
+        "H02H 3/087",
+        "H02H 7/1222",
+        "H02H 1/04",
+        "G01R 19/0007",
+        "G01R 19/16528",
+        "G01R 19/16538",
+        "G01R 23/165",
+        "G01R 31/12",
+        "Y02E 10/50",
+        "H01F 38/30"
+    ]
+}
+{
+    "patent_number": "US-11943029-B2",
+    "abstract": "Disclosed herein is a method for reporting channel state information (CSI) of a terminal in a wireless communication system. The method includes: measuring a CSI-RS (reference signal) transmitted from a base station through multiple panels; and reporting CSI generated based on the CSI-RS measurement to the base station, wherein, when the terminal reports a WB (Wideband) panel corrector and SB (Subband) panel corrector for the multiple panels as the CSI, the WB panel corrector and the SB panel corrector are reported with different bit widths.",
+    "cpc_id": [
+        "H04B 7/0626",
+        "H04B 7/065",
+        "H04B 7/0456",
+        "H04L 27/18",
+        "H04L 5/0051",
+        "H04L 5/0057",
+        "H04L 1/0026",
+        "H04W 24/08",
+        "Y02D 30/70"
+    ]
+}
+{
+    "patent_number": "US-11943036-B2",
+    "abstract": "Disclosed are a method and a device for transmitting or receiving a signal on the basis of a space parameter in a wireless communication system. A method for performing downlink reception or uplink transmission by a terminal in a wireless communication system according to an embodiment of the present disclosure may comprise the steps of: transmitting information related to a beam switching time of the terminal to a base station; receiving, from the base station, downlink control information (DCI) including information on the downlink reception or the uplink transmission; and on the basis of the beam switching time and a predetermined threshold value, applying one space parameter set among multiple space parameter sets so as to perform the downlink reception or the uplink transmission, wherein at least one of the beam switching time and the predetermined threshold value may be based on at least one of subcarrier spacing, the position of a frequency, a capability of the terminal, and a cyclic prefix (CP)-related configuration.",
+    "cpc_id": [
+        "H04B 7/0868",
+        "H04B 7/0626",
+        "H04B 7/0632",
+        "H04B 7/0695",
+        "H04B 7/088",
+        "H04B 7/0408",
+        "H04L 27/26025",
+        "H04L 5/0023",
+        "H04L 5/005",
+        "H04L 5/0094",
+        "H04L 5/0048",
+        "H04L 27/2678",
+        "H04W 8/22",
+        "H04W 88/02",
+        "H04W 72/23",
+        "H04J 11/00",
+        "Y02D 30/70"
+    ]
+}
+{
+    "patent_number": "US-11943039-B2",
+    "abstract": "A method performed by STA may comprise receiving, from a first AP, a first beacon frame comprising a first relay information element including a first field that indicates whether a root AP BSSID field is included in the first relay information element, determining that a first root AP BSSID field is included in the first relay information element and determining that the first AP is a relay AP of a root AP identified by the first root AP BSSID field. The method may further comprise receiving, from a second AP, a second beacon frame comprising a second relay information element including a second field that indicates whether a root AP BSSID is included in the second relay information element and determining that a root AP BSSID field is not included in the second information element and determining that the second AP is a root AP.",
+    "cpc_id": [
+        "H04B 7/15507",
+        "H04W 40/244",
+        "H04W 52/0216",
+        "H04W 52/0229",
+        "H04W 84/047",
+        "H04W 36/08",
+        "H04W 84/12",
+        "Y02D 30/70"
+    ]
+}
+{
+    "patent_number": "US-11943379-B2",
+    "abstract": "An electronic device according to various embodiments of the disclosure may include: a first housing including a first conductive portion, a second conductive portion disposed to be spaced apart from one side of the first conductive portion, and a third conductive portion disposed to be spaced apart from another side of the first conductive portion, a second housing configured to perform slide movement with respect to the first housing, a flexible display connected to the second housing and configured to be extended or contracted in response to the slide movement, a first non-conductive member comprising a non-conductive material configured to electrically separate the first conductive portion and the second conductive portion from each other, a circuit board disposed inside the first housing and including a circuit disposed thereon, a fixing member comprising a conductive material configured to fix the circuit board to the first housing, and a switch disposed adjacent to the fixing member and configured to electrically connect or disconnect the circuit to or from at least a portion of the first housing.",
+    "cpc_id": [
+        "H04M 1/0268",
+        "H04M 1/0237",
+        "H04M 1/0235",
+        "G06F 1/1624",
+        "G06F 1/1652",
+        "G06F 1/1658",
+        "G06F 1/1681",
+        "G06F 1/1698",
+        "G06F 1/3218",
+        "G06F 1/3278",
+        "H01Q 1/243",
+        "H01Q 1/241",
+        "H01Q 1/44",
+        "H01Q 5/357",
+        "H01Q 9/0421",
+        "Y02D 10/00",
+        "H04B 1/04",
+        "H04B 1/03",
+        "H04B 1/08",
+        "H04B 1/16",
+        "H04B 1/40"
+    ]
+}
+{
+    "patent_number": "US-11943639-B2",
+    "abstract": "According to various embodiments, an electronic device may include a communication circuit operably coupled with an external electronic device and at least one processor, wherein the at least one processor may be configured to determine one or more target-wake-time (TWT) parameters of at least one TWT service period based on at least one of the amount of data transmitted to the external electronic device, an amount of data received from the external electronic device, or a bandwidth, wherein at least one data frame is transmitted or received between the electronic device and the external electronic device during the at least one TWT service period; identify quality of service (QoS) for the at least one data frame transmitted or received during the at least one TWT service period; change at least one TWT parameter among the one or more TWT parameters based on the identified QoS; and control the communication circuit to transmit or receive at least one next data frame during the a next TWT service period based on the changed at least one TWT parameter.",
+    "cpc_id": [
+        "H04W 24/02",
+        "H04W 24/08",
+        "H04W 76/28",
+        "H04W 28/02",
+        "H04W 28/04",
+        "H04W 72/12",
+        "H04W 84/12",
+        "H04W 28/24",
+        "H04W 52/0216",
+        "H04W 28/0236",
+        "H04W 72/0446",
+        "H04W 72/1263",
+        "H04W 72/542",
+        "H04L 24/0858",
+        "H04L 43/16",
+        "H04L 43/0852",
+        "Y02D 30/70"
+    ]
+}
+{
+    "patent_number": "US-11943659-B2",
+    "abstract": "Provided are a terminal and a method of accessing an access point (AP) by the terminal, in a wireless communication system. The method includes determining whether to maintain access to a currently accessed radio channel, based on load information of a currently accessed AP, determining a radio channel to be accessed, based on the load information of the AP near the terminal and channel interference information, and accessing the determined radio channel.",
+    "cpc_id": [
+        "H04W 28/085",
+        "H04W 28/0236",
+        "H04W 28/0942",
+        "H04W 28/0226",
+        "H04W 28/08",
+        "H04W 24/10",
+        "H04W 24/08",
+        "H04W 48/20",
+        "H04W 48/16",
+        "H04W 48/06",
+        "H04W 48/14",
+        "H04W 48/10",
+        "H04W 48/12",
+        "H04W 48/00",
+        "H04W 72/082",
+        "H04W 72/08",
+        "H04W 72/0406",
+        "H04W 72/0486",
+        "H04W 72/10",
+        "H04W 72/0446",
+        "H04W 16/14",
+        "H04W 16/30",
+        "H04W 16/28",
+        "H04W 40/244",
+        "H04W 88/08",
+        "H04W 88/00",
+        "H04W 88/06",
+        "H04W 88/02",
+        "H04W 88/10",
+        "H04W 84/12",
+        "H04W 84/02",
+        "H04W 52/0216",
+        "H04W 52/0229",
+        "H04W 52/283",
+        "H04W 52/50",
+        "H04W 80/10",
+        "H04W 80/12",
+        "H04W 8/005",
+        "H04W 12/062",
+        "H04W 12/06",
+        "H04W 12/08",
+        "H04W 76/11",
+        "H04W 76/15",
+        "H04W 76/19",
+        "H04W 76/30",
+        "H04W 74/08",
+        "H04L 43/12",
+        "H04L 43/0876",
+        "H04L 43/16",
+        "H04L 41/0803",
+        "H04B 17/318",
+        "H04B 17/336",
+        "H04B 17/345",
+        "Y02D 30/70"
+    ]
+}
+{
+    "patent_number": "US-11943710-B2",
+    "abstract": "An electronic device for managing gateways comprises: a processor; and a computer-readable storage medium which contains executable instructions which, when executed by the processor, causes the electronic device to: determine whether the current time falls within the specified sleep time interval; in response to determining that the current time falls within the specified sleep time interval, determine whether the first extender node among one or a plurality of extender nodes is in an idle connection state, wherein the idle connection state includes: the first extender node being not connected to any client, or the first extender node being only connected to a sleeping client; and sending a sleep command to the first extender node based at least in part on the idle connection state of the first extender node, wherein the sleep command instructs the first extender node to power off a wireless network interface of the first extender node.",
+    "cpc_id": [
+        "H04W 52/0206",
+        "H04W 16/26",
+        "H04W 52/0216",
+        "H04W 52/0219",
+        "H04W 52/0229",
+        "H04W 52/0235",
+        "H04W 52/0274",
+        "Y02D 30/70"
+    ]
+}
+{
+    "patent_number": "US-11943713-B2",
+    "abstract": "A wireless device features a low-power, limited-functionality, narrowband, homodyne wakeup receiver with a free running local oscillator. This enables a very attractive combination of low power consumption and high selectivity. The network supports these receivers by adopting a wakeup message structure that supports oscillator frequency calibration, and that tolerates loss of parts of the signal spectrum. Wakeup signals are transmitted frequently to allow the wakeup receivers (whether targeted by a wakeup signal or not) to calibrate their LO frequencies. The frequencies of the wakeup signals can be constant, or follow a hopping pattern for increased immunity to interference. The wakeup signals can use multiple carriers to increase robustness to loss of parts of the signal spectrum, particularly near the LO frequency in a homodyne receiver. The carriers use amplitude modulation (OOK), with either different or equal sequences. Having equal sequences provides an opportunity for increased sensitivity by mixing all carriers to the same frequency before amplitude detection and correlation.",
+    "cpc_id": [
+        "H04W 52/0229",
+        "H04W 52/0235",
+        "H04W 72/0453",
+        "Y02D 30/70"
+    ]
+}
+{
+    "patent_number": "US-11943714-B2",
+    "abstract": "The present invention relates to a method for receiving a paging signal in a wireless communication system, and a device therefor, the method comprising the steps of: determining index information indicating a wake up signal (WUS) resource; and monitoring a WUS on the basis of the determined index information, wherein, when a user equipment (UE) supports machine type communication (MTC), the index information indicating the WUS resource is determined on the basis of identification information of the UE, parameters related to a discontinuous reception (DRX) cycle of the UE, information related to the number of paging narrowbands, and information related to the number of UE groups for the WUS.",
+    "cpc_id": [
+        "H04W 52/0229",
+        "H04W 4/80",
+        "H04W 52/0219",
+        "H04W 68/005",
+        "H04W 76/11",
+        "H04W 76/28",
+        "H04W 68/025",
+        "H04W 52/0235",
+        "H04W 8/24",
+        "H04W 68/02",
+        "H04L 2101/654",
+        "Y02D 30/70"
+    ]
+}
+{
+    "patent_number": "US-11943715-B2",
+    "abstract": "Methods, systems, and devices for wireless communications are described. A user equipment (UE) may receive, from a wireless network device (e.g., a base station or a transmission reception point (TRP) of the base station), a first control message comprising an indication of a set of energy saving modes of the wireless network device. The UE may receive a second control message indicating a first energy saving mode from the set of energy saving modes, where the first energy saving mode may be indicative of a number of channel state information (CSI) reference signal (CSI-RS) resources used by the wireless network device. The UE may monitor one or more of the CSI-RS resources for a CSI-RS in accordance with the first energy saving mode, and transmit, to the wireless network device, CSI feedback determined based on measurements made by the UE of the CSI-RS.",
+    "cpc_id": [
+        "H04L 5/0053",
+        "H04L 5/0057",
+        "H04W 52/0209",
+        "H04W 52/0212",
+        "H04W 52/0216",
+        "H04W 52/0229",
+        "H04W 52/0235",
+        "H04W 52/0258",
+        "Y02D 30/70"
+    ]
+}
+{
+    "patent_number": "US-11943718-B2",
+    "abstract": "A system and method for managing and controlling power of base station when a connectable terminal device is moving at speed through the coverage area of the base station, the method obtains a transmission power from a terminal through the base station; obtains location of the terminal, and generates a transmission power conversion table according to the terminal transmission power and the terminal location. The transmission power conversion table is transmitted to the terminal by the base station, the transmission power being used by the terminal according to the transmission power conversion table, avoiding repeated communications and electrical energy cost between base station and terminal in respect of the changing location of the terminal.",
+    "cpc_id": [
+        "H04W 52/143",
+        "H04W 52/146",
+        "H04W 52/226",
+        "H04W 52/283",
+        "H04W 52/285",
+        "H04W 64/00",
+        "Y02D 30/70"
+    ]
+}
+{
+    "patent_number": "US-11943730-B2",
+    "abstract": "Aspects relate to configuring a delay between a downlink control channel and a downlink/uplink. For example, the base station determines first search spaces indicating potential locations for a first downlink control channel and/or second search spaces indicating potential locations for a second downlink control channel. The base station configures and transmits first delays and/or second delays. Each first delay indicates a respective time delay between a resource location of the first downlink control channel and a resource location of a downlink data associated with the first downlink control channel and is configured for a respective first search space of the first search spaces. Each second delay indicates a respective time delay between a resource location of the second downlink control channel and a resource location of an uplink data associated with the second downlink control channel and is configured for a respective second search space of the second search spaces.",
+    "cpc_id": [
+        "H04W 72/0446",
+        "H04W 72/23",
+        "H04W 24/08",
+        "H04W 72/1273",
+        "H04W 52/0235",
+        "H04W 52/0216",
+        "H04W 76/28",
+        "H04W 72/12",
+        "H04W 52/0229",
+        "H04W 52/0258",
+        "H04L 1/1896",
+        "H04L 5/0094",
+        "H04L 5/0053",
+        "H04L 1/1819",
+        "H04L 1/1864",
+        "H04L 1/1854",
+        "H04L 1/1822",
+        "H04L 5/001",
+        "H04L 5/0007",
+        "Y02D 30/70"
+    ]
+}
+{
+    "patent_number": "US-11943752-B2",
+    "abstract": "Provided is a radio communication base station device which can prevent lowering of use efficiency of a channel communication resource for performing a frequency diversity transmission when simultaneously performing a frequency scheduling transmission and the frequency diversity transmission in a multicarrier communication. In the device, a modulation unit (12) executes a modulation process on Dch data after encoded so as to generate a Dch data symbol. A modulation unit (22) executes a modulation process on the encoded Lch data so as to generate an Lch data symbol. An allocation unit (103) allocates the Dch data symbol and the Lch data symbol to respective subcarriers constituting an OFDM symbol and outputs them to a multiplexing unit (104). Here, when a plurality of Dch are used for a Dch data symbol of one mobile station, the allocation unit (103) uses Dch of continuous channel numbers.",
+    "cpc_id": [
+        "H04W 72/0446",
+        "H04W 72/0453",
+        "H04W 72/23",
+        "H04B 7/12",
+        "H04L 1/0003",
+        "H04L 1/0009",
+        "H04L 1/0071",
+        "H04L 5/0007",
+        "H04L 5/0028",
+        "H04L 5/0039",
+        "H04L 5/0041",
+        "H04L 5/0092",
+        "H04L 5/006",
+        "H04L 5/0064",
+        "H04L 5/0085",
+        "H04L 5/0032",
+        "Y02D 30/70"
+    ]
+}
+{
+    "patent_number": "US-11943814-B2",
+    "abstract": "This specification provides a method for transmitting an NPRACH preamble in a wireless communication system supporting TDD. More specifically, the method performed by the UE includes: receiving, from a base station, NPRACH configuration information including control information for a repetition number of NPRACH preambles including symbol groups through a higher layer signaling; and transmitting, to the base station, the NPRACH preamble repeatedly through frequency hopping of a symbol group based on the NPRACH configuration information, in which a frequency location of the symbol group is determined based on a first parameter related to a start subcarrier and a second parameter related to the frequency hopping.",
+    "cpc_id": [
+        "H04W 74/0833",
+        "H04W 16/14",
+        "H04W 74/008",
+        "H04W 74/08",
+        "H04W 74/0891",
+        "H04W 72/23",
+        "Y02D 30/70",
+        "H04L 5/0092",
+        "H04L 5/0007",
+        "H04L 5/0012",
+        "H04L 5/0053",
+        "H04L 5/1469",
+        "H04L 27/2692",
+        "H04L 5/001",
+        "H04L 5/0078",
+        "H04L 2027/0095",
+        "H04L 1/08"
+    ]
+}
+{
+    "patent_number": "US-11943867-B2",
+    "abstract": "An electronic component includes a main body portion that has a first main surface having first and second sides, a second main surface opposite to the first main surface, a first side surface sharing the first side with the first main surface, and a second side surface sharing the second side with the first main surface, connection terminals that have electrical conductivity and that are arranged on the first main surface so as to be isolated from each other, and side-surface terminals that have electrical conductivity. The main body portion has side-surface grooves that are formed in the first and second side surfaces and that extend from the first main surface toward the second main surface. The side-surface terminals are provided on inner sides of the side-surface grooves and are each electrically connected to at least one of two end portions of the corresponding connection terminal.",
+    "cpc_id": [
+        "H05K 1/111",
+        "H05K 1/181",
+        "H05K 2201/09036",
+        "H05K 2201/09827",
+        "Y02P 70/50",
+        "H01R 4/029"
+    ]
+}
+{
+    "patent_number": "US-11943895-B2",
+    "abstract": "This disclosure relates to a liquid cooling device including a first heat exchanger that has a first inlet and a first outlet, a second heat exchanger that has a second inlet and a second outlet, a heat dissipation component that has a first heat inlet, a second heat inlet, and a heat outlet, and a fluid driving component that has a fluid inlet, a first fluid outlet, and a second fluid outlet. The first heat inlet and the second heat inlet are in fluid communication with the heat outlet. The first heat inlet is in fluid communication with the first outlet. The second heat inlet is in fluid communication with the second outlet. The fluid inlet is in fluid communication with the heat outlet. The first fluid outlet and the second fluid outlet are respectively in fluid communication with the first heat inlet and the second heat inlet.",
+    "cpc_id": [
+        "H05K 7/20263",
+        "H05K 1/0203",
+        "H05K 7/20136",
+        "H05K 7/20254",
+        "H05K 7/20272",
+        "H05K 7/20772",
+        "H05K 7/2039",
+        "G06F 1/206",
+        "G06F 2200/201",
+        "G06F 1/20",
+        "Y02D 10/00"
+    ]
+}
+{
+    "patent_number": "US-11943987-B2",
+    "abstract": "A color conversion substrate and a display device are provided. The color conversion substrate includes a base substrate, a first color filter and a second color filter disposed on a surface of the base substrate, a first partition layer disposed between the first color filter and the second color filter, a second partition layer disposed on the first partition layer, a first wavelength conversion pattern disposed on the first color filter and a second wavelength conversion pattern disposed on the second color filter, wherein the first partition layer includes a first lower surface disposed on the first color filter and a second lower surface disposed on the second color filter.",
+    "cpc_id": [
+        "H01L 27/322",
+        "H01L 51/5284",
+        "H01L 2251/5369",
+        "H01L 51/0096",
+        "H01L 27/156",
+        "H01L 33/507",
+        "H01L 33/58",
+        "H01L 27/3218",
+        "H01L 27/3211",
+        "H01L 27/3244",
+        "H01L 51/5262",
+        "G02B 5/201",
+        "Y02E 10/549",
+        "Y02P 70/50",
+        "H10K 59/38",
+        "H10K 50/865",
+        "H10K 2102/331",
+        "H10K 77/10",
+        "H10K 50/85",
+        "H10K 59/35",
+        "H10K 59/353",
+        "H10K 59/12"
+    ]
+}
+{
+    "patent_number": "US-11943994-B2",
+    "abstract": "A display device and a method of manufacturing the same are provided. The display device, comprises a first base substrate, a first barrier layer disposed on the first base substrate, a second base substrate disposed on the first barrier layer, at least one transistor disposed on the second base substrate, and an organic light emitting diode disposed on the at least one transistor, wherein the first barrier layer includes a silicon oxide, and has an adhesion force of 200 gf/inch or more to the second base substrate.",
+    "cpc_id": [
+        "H10K 77/111",
+        "H10K 50/844",
+        "H10K 59/12",
+        "H10K 71/00",
+        "H10K 71/80",
+        "H10K 59/1201",
+        "H10K 50/8445",
+        "H10K 50/8426",
+        "C23C 14/18",
+        "C23C 16/345",
+        "C23C 16/401",
+        "C23C 28/30",
+        "C23C 28/00",
+        "G09G 3/3233",
+        "G09G 2300/0443",
+        "G09G 2300/0809",
+        "G09G 2300/0426",
+        "G09G 2300/0814",
+        "G09G 2300/0819",
+        "G09G 2300/0866",
+        "G09G 2320/0257",
+        "G09G 2320/045",
+        "Y02E 10/549",
+        "H01L 21/02164",
+        "H01L 27/1218",
+        "H01L 27/1262"
+    ]
+}
