@@ -23,16 +23,16 @@ def download_zip_file(url):
         print("Failed to download file. Status code:", response.status_code)
         return None
 
-def main():
-    # URL of the zip file you want to download
-    zip_url = 'https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/2022/ipg220705.zip'
+# def main():
+#     # URL of the zip file you want to download
+#     zip_url = 'https://bulkdata.uspto.gov/data/patent/grant/redbook/fulltext/2022/ipg220705.zip'
     
-    # Download the zip file and extract the XML content
-    xml_content = download_zip_file(zip_url)
+#     # Download the zip file and extract the XML content
+#     xml_content = download_zip_file(zip_url)
     
-    if xml_content:
-        # Print the XML content
-        print("XML file content:\n", xml_content.decode('utf-8'))
+#     if xml_content:
+#         # Print the XML content
+#         print("XML file content:\n", xml_content.decode('utf-8'))
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
